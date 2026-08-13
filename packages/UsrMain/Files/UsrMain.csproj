@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-	<Import Project="..\..\..\.build-props\env.$(Configuration).props" Condition="Exists('..\..\..\.build-props\env.$(Configuration).props')" />
 	<PropertyGroup>
 		<AppendTargetFrameworkToOutputPath>False</AppendTargetFrameworkToOutputPath>
 		<CoreTargetFramework Condition="'$(CoreTargetFramework)' == ''">net472</CoreTargetFramework>
@@ -699,9 +698,7 @@
 		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
-	<ItemGroup Label="Entity Files">
-		<Compile Remove="$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrTrafficLights/UsrTrafficLights.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrYacht/Schemas/UsrTrafficLights/UsrTrafficLights.cs')" />
-	</ItemGroup>
+	<ItemGroup Label="Entity Files" />
 	<ItemGroup Label="3rd Party References"></ItemGroup>
 	<Target Name="Paths" BeforeTargets="BeforeCompile">
 		<Message Importance="High" Text="*********** Project [$(MSBuildProjectFile)] TargetFramework [$(TargetFramework)] CoreTargetFramework [$(CoreTargetFramework)]" />
