@@ -1,0 +1,40 @@
+﻿2026-08-13 11:22:32,973 Loading file: Yacht.zip 100%
+2026-08-13 11:22:35,483 Application install from file started. Application name: Yacht. Code: Yacht.
+2026-08-13 11:22:35,483 Preparing packages for installation
+2026-08-13 11:22:38,002 Loading packages from archive
+2026-08-13 11:22:38,102 Package "UsrYacht" loaded
+2026-08-13 11:22:38,992 Loading packages from archive
+2026-08-13 11:22:39,021 Package "UsrYacht" loaded
+2026-08-13 11:22:39,130 Loading packages from database
+2026-08-13 11:22:53,059 Composing packages
+2026-08-13 11:22:56,284 Schema data "SysSettingsValue_AcademyWebsite" saved in package "UsrYacht"
+2026-08-13 11:22:56,748 Schema data "SysSettings_AcademyWebsite" saved in package "UsrYacht"
+2026-08-13 11:22:56,799 Files saved in package "UsrYacht"
+2026-08-13 11:22:56,799 Package "UsrYacht" saved
+2026-08-13 11:22:56,915 Modified - dependencies of package "UsrYacht"
+2026-08-13 11:22:56,978 Modified - resources in package "UsrYacht"
+2026-08-13 11:22:57,144 Modified - schema caption localizations in package "UsrYacht"
+2026-08-13 11:22:57,215 Updating modified schemas
+2026-08-13 11:22:57,215 Updated modified schemas
+2026-08-13 11:22:59,026 Updating tables structure in database
+2026-08-13 11:22:59,134 Installing data
+2026-08-13 11:23:10,762 Data "SysSettings_AcademyWebsite" from package "UsrYacht" installed
+2026-08-13 11:23:13,397 Data "SysSettingsValue_AcademyWebsite" from package "UsrYacht" installed
+2026-08-13 11:23:14,002 Executing default install scripts
+2026-08-13 11:23:14,022 Default install script "Creatio.Copilot.GrantDefIntentPermissionsExecutor" executed for package "UsrYacht"
+2026-08-13 11:23:14,022 Default install script "Creatio.Copilot.KnwSrcPackageInstallExecutor" executed for package "UsrYacht"
+2026-08-13 11:23:14,322 Saving application info to the system (code: UsrYacht)...
+2026-08-13 11:23:14,491 App with code UsrYacht already exists and checksums are equal - saving skipped
+2026-08-13 11:23:19,200 Configuration build started
+2026-08-13 11:23:19,255 Current schemas info loaded
+2026-08-13 11:24:11,572 New schemas info loaded
+2026-08-13 11:24:11,605 Configuration state loaded
+2026-08-13 11:24:11,605 Configuration server content generation started
+2026-08-13 11:24:11,620 Configuration server content generated
+2026-08-13 11:24:11,762 Meta info file updated
+2026-08-13 11:24:11,791 File content generation started
+2026-08-13 11:24:12,022 File content descriptors obtained
+2026-08-13 11:24:12,156 File content descriptors generated
+2026-08-13 11:24:12,212 File content bootstraps generated
+2026-08-13 11:24:12,214 Configuration build finished
+2026-08-13 11:24:14,152 Application installed successfully
