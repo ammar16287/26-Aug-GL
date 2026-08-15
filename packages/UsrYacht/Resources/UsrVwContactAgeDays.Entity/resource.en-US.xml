@@ -2,8 +2,8 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Contact Age In Days" />
-			<Item Name="Columns.UsrAgeDays.Caption" Value="Contact Age In Days" />
+			<Item Name="Caption" Value="Contact Ages Days" />
+			<Item Name="Columns.UsrAgeDays.Caption" Value="Age In Days" />
 			<Item Name="Columns.UsrBirthDate.Caption" Value="Birth Date" />
 			<Item Name="Columns.UsrContact.Caption" Value="Contact" />
 			<Item Name="Columns.UsrId.Caption" Value="Id" />
