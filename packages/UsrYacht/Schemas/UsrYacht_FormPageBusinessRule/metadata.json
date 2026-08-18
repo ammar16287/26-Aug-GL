@@ -1,0 +1,80 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "cd16d053-2c24-4676-a90c-0102267e3e06",
+      "A2": "UsrYacht_FormPageBusinessRule",
+      "A5": "2894e56a-dde8-4cfb-b716-db9a922f7e16",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "4896267d-5eff-4e4a-b8b1-bc1e90a28384",
+      "B8": "10.0.0.801",
+      "AD1": "1f774f4f-cfa9-4195-8c35-40ac969d176e",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "dd95d209-23e1-54fa-d579-8eb159ba4735",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "b58b63e3-e8c6-d7ad-39d9-67219d504145",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "16331cbe-1667-081d-8e79-5f434514a47a",
+                  "BGC1": 1,
+                  "BGC2": [
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "3495351b-e671-65cb-c876-9afff1296aef",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "37d914a1-569b-9181-3765-d27ca3b5c7c0",
+                        "BRE1": "Float2",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "PDS_UsrYachtPricePerDay_90cnm7l"
+                      },
+                      "BCO2": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSysSettingExpression",
+                        "UId": "0f897e83-2926-b0b5-2c34-b9da4c87eaf7",
+                        "BRE1": "Float2",
+                        "BRE2": "SysSetting",
+                        "BSS1": "MinPriceToRequireYachtComment"
+                      },
+                      "BCO3": 7
+                    }
+                  ]
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionRequiredElement",
+                    "UId": "5f9c4a06-f4c6-401b-46c6-b9c5a3be3923",
+                    "BRA4": "Input_yacht_comment"
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "8f2e6250-3ae2-d5d5-dde5-b605d080273c",
+                "BRT2": 2
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "96c5c3ee-d142-165e-a2ec-3e759bbb0459",
+                "BRT1": "PDS_UsrYachtPricePerDay_90cnm7l"
+              }
+            ],
+            "BR3": "BusinessRule_eb09826"
+          }
+        ]
+      }
+    }
+  }
+}

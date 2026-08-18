@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d62fcd88-2605-4917-93f0-7273e63740b0",
+    "Name": "UsrUsrLookupStatus",
+    "ModifiedOnUtc": "\/Date(1786971654000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Status",
+    "DependsOn": []
+  }
+}
