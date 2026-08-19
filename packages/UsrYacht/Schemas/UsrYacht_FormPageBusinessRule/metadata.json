@@ -19,29 +19,29 @@
         "BRS1": [
           {
             "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
-            "UId": "dd95d209-23e1-54fa-d579-8eb159ba4735",
+            "UId": "96c1f467-827f-9a67-ebf9-effa3b4f345d",
             "BR1": [
               {
                 "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
-                "UId": "b58b63e3-e8c6-d7ad-39d9-67219d504145",
+                "UId": "c5d0d26c-9098-8f25-2f17-6b967609270f",
                 "BRC1": {
                   "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
-                  "UId": "16331cbe-1667-081d-8e79-5f434514a47a",
+                  "UId": "e5771002-4d23-6f1f-e62c-a83ec7f30963",
                   "BGC1": 1,
                   "BGC2": [
                     {
                       "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
-                      "UId": "3495351b-e671-65cb-c876-9afff1296aef",
+                      "UId": "77f018e1-ead9-0014-f901-514d34dc41d7",
                       "BCO1": {
                         "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
-                        "UId": "37d914a1-569b-9181-3765-d27ca3b5c7c0",
+                        "UId": "317e3e0d-ad35-00fc-bfa1-d386ba58bb6e",
                         "BRE1": "Float2",
                         "BRE2": "AttributeValue",
                         "BRX1": "PDS_UsrYachtPricePerDay_90cnm7l"
                       },
                       "BCO2": {
                         "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSysSettingExpression",
-                        "UId": "0f897e83-2926-b0b5-2c34-b9da4c87eaf7",
+                        "UId": "f4d48be9-63be-4b67-6e9b-f694612c9cdd",
                         "BRE1": "Float2",
                         "BRE2": "SysSetting",
                         "BSS1": "MinPriceToRequireYachtComment"
@@ -53,8 +53,8 @@
                 "BRC2": [
                   {
                     "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionRequiredElement",
-                    "UId": "5f9c4a06-f4c6-401b-46c6-b9c5a3be3923",
-                    "BRA4": "Input_yacht_comment"
+                    "UId": "6689da3f-2ebb-80e9-8ca4-315a0afc52f5",
+                    "BRA4": "Input_omisakp"
                   }
                 ]
               }
@@ -62,16 +62,16 @@
             "BR2": [
               {
                 "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-                "UId": "8f2e6250-3ae2-d5d5-dde5-b605d080273c",
+                "UId": "3c074827-0529-1b72-3c67-90b920d43433",
                 "BRT2": 2
               },
               {
                 "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
-                "UId": "96c5c3ee-d142-165e-a2ec-3e759bbb0459",
+                "UId": "a06a23d1-433c-71a8-cffe-ace851acd9ea",
                 "BRT1": "PDS_UsrYachtPricePerDay_90cnm7l"
               }
             ],
-            "BR3": "BusinessRule_eb09826"
+            "BR3": "BusinessRule_b1c1d9f"
           }
         ]
       }

@@ -10,12 +10,17 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5zu1koj_caption.Value" Value="Refresh" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_4co8g2s_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_3rgx6g1_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.addRecord_2xkde60_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_8lboq7o_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_byttlli_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fwzebae_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_sz2cv23_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_t9p40fw_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_vx3sg0w_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_whdzcub_caption.Value" Value="Add new" />
 			<Item Name="Parameters.37d6355a-d70e-3600-1887-49b327274399.Caption" Value="Manager" />
 			<Item Name="Parameters.407bfadb-69b3-7094-1c60-99abd90e094e.Caption" Value="Yacht Status" />
+			<Item Name="Parameters.655a7868-adc8-833d-e0b1-bdb8fb992032.Caption" Value="Dropdown 1" />
 			<Item Name="Parameters.9f71ef1d-5eac-4d92-42eb-0d818dbe5361.Caption" Value="Captain" />
 			<Item Name="Parameters.a7f2ec13-24c7-939d-b265-3a7f5da53576.Caption" Value="Drive Type" />
 			<Item Name="Parameters.cc0c00f2-f8fa-e2eb-3dc9-e96cbce2036b.Caption" Value="Checkbox 1" />

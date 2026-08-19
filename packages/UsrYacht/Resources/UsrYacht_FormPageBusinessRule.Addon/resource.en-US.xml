@@ -2,7 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="AddonConfig.Rules.dd95d209-23e1-54fa-d579-8eb159ba4735.Caption" Value="Min Price To Require Yacht Comment" />
+			<Item Name="AddonConfig.Rules.96c1f467-827f-9a67-ebf9-effa3b4f345d.Caption" Value="Make elements required: Comment" />
 			<Item Name="Caption" Value="Yacht form page (Business rules)" />
 		</Items>
 	</Group>
