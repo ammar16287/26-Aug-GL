@@ -2,7 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Yacht Rentals" />
+			<Item Name="Caption" Value="Yacht Rentals old" />
 			<Item Name="Columns.UsrPatentYacht.Caption" Value="Patent Yacht" />
 			<Item Name="Columns.UsrRentalComment.Caption" Value="Comment" />
 			<Item Name="Columns.UsrRentalCustomer.Caption" Value="Customer" />

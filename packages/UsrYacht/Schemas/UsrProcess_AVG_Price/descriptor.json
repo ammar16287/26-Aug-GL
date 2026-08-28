@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b1dfea9-75e3-43dc-a25e-f027a72285bc",
+    "Name": "UsrProcess_AVG_Price",
+    "ModifiedOnUtc": "\/Date(1787655155000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht AVG Process",
+    "DependsOn": []
+  }
+}

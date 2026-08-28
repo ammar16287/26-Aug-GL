@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "2288a0ea-83d5-4a39-8a57-e6a36f61a5e5",
+      "A2": "UsrYachtRentalRelatedPage",
+      "A5": "2894e56a-dde8-4cfb-b716-db9a922f7e16",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "4896267d-5eff-4e4a-b8b1-bc1e90a28384",
+      "B8": "10.0.0.801",
+      "AD1": "99a7e17d-ad1d-452f-99c4-921ab87b639b",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "612f9f86-73da-ef22-75d6-e392f33b4dcc",
+      "PageSchemaUId": "223dde8b-883c-445d-9b48-52de00bdb3e9",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

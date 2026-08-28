@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="New modal page" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="OK" />
+			<Item Name="Parameters.1e8c3708-0c4f-619a-fea1-504b4176d85e.Caption" Value="AVG Price" />
+			<Item Name="Parameters.99da91af-38cf-dfae-15e6-e2d08d05ba91.Caption" Value="SQL Parameter" />
+			<Item Name="Parameters.caa54644-74d6-9978-f53e-6f4558677c43.Caption" Value="AVG Price" />
+		</Items>
+	</Group>
+</Resources>

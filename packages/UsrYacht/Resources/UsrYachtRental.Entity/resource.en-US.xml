@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht Rentals" />
+			<Item Name="Columns.UsrRentalStart.Caption" Value="Start Date" />
+			<Item Name="Columns.UsrYachtCustomer.Caption" Value="Customer" />
+			<Item Name="Columns.UsrYachtParent.Caption" Value="Parent Yacht" />
+			<Item Name="Columns.UsrYachtRentalComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrYachtRentalEnd.Caption" Value="Rental End" />
+			<Item Name="Columns.UsrYachtRentalManager.Caption" Value="Manager" />
+			<Item Name="Columns.UsrYachtRentalStart.Caption" Value="Rental Start" />
+			<Item Name="Columns.UsrYachtRentalTotalPrice.Caption" Value="Total price USD" />
+		</Items>
+	</Group>
+</Resources>
