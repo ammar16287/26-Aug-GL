@@ -147,21 +147,6 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA_
 			},
 			{
 				"operation": "insert",
-				"name": "MenuItem_8rhjluz",
-				"values": {
-					"type": "crt.MenuItem",
-					"caption": "#ResourceString(MenuItem_8rhjluz_caption)#",
-					"visible": true,
-					"clicked": {
-						"request": "usr.RunWebServiceRequest"
-					}
-				},
-				"parentName": "Button_tuln1sp",
-				"propertyName": "menuItems",
-				"index": 2
-			},
-			{
-				"operation": "insert",
 				"name": "UsrName",
 				"values": {
 					"layoutConfig": {
@@ -472,11 +457,16 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA_
 			},
 			{
 				"operation": "insert",
-				"name": "GridContainer_x2lmzqt",
+				"name": "GridContainer_p7bthx5",
 				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 2,
+						"row": 5,
+						"rowSpan": 1
+					},
 					"type": "crt.GridContainer",
 					"columns": [
-						"minmax(32px, 1fr)",
 						"minmax(32px, 1fr)"
 					],
 					"rows": "minmax(max-content, 32px)",
@@ -497,9 +487,35 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA_
 						"left": "none"
 					}
 				},
-				"parentName": "GeneralInfoTab",
+				"parentName": "GeneralInfoTabContainer",
 				"propertyName": "items",
-				"index": 1
+				"index": 8
+			},
+			{
+				"operation": "insert",
+				"name": "Categories",
+				"values": {
+					"type": "crt.MultiSelect",
+					"label": "#ResourceString(Categories_label)#",
+					"recordId": "$Id",
+					"recordRelationColumnName": "UsrPatentYacht",
+					"selectSchemaName": "UsrCategoryInYacht",
+					"selectColumnName": "UsrCategory",
+					"visible": true,
+					"labelPosition": "left",
+					"placeholder": "",
+					"tooltip": "",
+					"required": false,
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 1,
+						"rowSpan": 1
+					}
+				},
+				"parentName": "GridContainer_p7bthx5",
+				"propertyName": "items",
+				"index": 0
 			},
 			{
 				"operation": "insert",
@@ -965,6 +981,9 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA_
 								}
 							}
 						}
+					},
+					"Categories_List_Items_Predefined_Filter": {
+						"value": null
 					}
 				}
 			},

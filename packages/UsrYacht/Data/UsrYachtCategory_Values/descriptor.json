@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2cdfcb0-184a-454b-94e4-d3d07fffa782",
+    "Name": "UsrYachtCategory_Values",
+    "ModifiedOnUtc": "\/Date(1788154720000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "d2cdfcb0-184a-454b-94e4-d3d07fffa782",
+      "Name": "UsrYachtCategory"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "58c2ef21-07f0-749f-ffc3-6a8d98359fed",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrColor",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
+      },
+      {
+        "ColumnUId": "63531411-ca32-d016-7837-ecc945b77f9e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrName",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ModifiedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      }
+    ]
+  }
+}
