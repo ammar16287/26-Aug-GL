@@ -4,6 +4,7 @@
     "Name": "UsrProcess_771e97c",
     "ModifiedOnUtc": "\/Date(1788246083000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "Create Records In Yacht Rental"
+    "Caption": "Create Records In Yacht Rental",
+    "DependsOn": []
   }
 }
