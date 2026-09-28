@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "510fc310-ef9a-46b7-9a26-06dcd2263ba4",
+    "Name": "EmpoOnbTask",
+    "ModifiedOnUtc": "\/Date(1790149512000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding Task",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d417f4fc-1429-4116-9257-0b70d5f12034",
+    "Name": "EmpoOffer",
+    "ModifiedOnUtc": "\/Date(1790319538000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Offers",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0bceaeac-069d-4c58-8f67-ef9c9daa1eaf",
+    "Name": "EmpoOnbStageProgressionProcess",
+    "ModifiedOnUtc": "\/Date(1790145553000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Employee Onboarding - Stage progression",
+    "DependsOn": []
+  }
+}

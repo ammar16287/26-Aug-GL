@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dcd05d0c-e3d1-46af-9784-2ecfeb1e1ff5",
+    "Name": "EmpoOnbTaskSection_FormPage",
+    "ModifiedOnUtc": "\/Date(1789997108000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Onboarding Tasks form page",
+    "DependsOn": []
+  }
+}

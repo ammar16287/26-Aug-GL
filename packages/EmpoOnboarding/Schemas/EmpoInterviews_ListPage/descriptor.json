@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "607b06b8-15d3-4c5d-a066-2bef0fea2a62",
+    "Name": "EmpoInterviews_ListPage",
+    "ModifiedOnUtc": "\/Date(1790247810000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Interviews list page",
+    "DependsOn": []
+  }
+}

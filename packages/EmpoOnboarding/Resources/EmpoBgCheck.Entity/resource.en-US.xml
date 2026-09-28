@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Background checks" />
+			<Item Name="Columns.EmpoApplication.Caption" Value="Application" />
+			<Item Name="Columns.EmpoAssignedTo.Caption" Value="Assigned to" />
+			<Item Name="Columns.EmpoCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.EmpoCheckType.Caption" Value="Check type" />
+			<Item Name="Columns.EmpoCompletedOn.Caption" Value="Completed on" />
+			<Item Name="Columns.EmpoDueDate.Caption" Value="Due date" />
+			<Item Name="Columns.EmpoName.Caption" Value="Check" />
+			<Item Name="Columns.EmpoProvider.Caption" Value="Provider / verifier" />
+			<Item Name="Columns.EmpoResult.Caption" Value="Result / findings" />
+			<Item Name="Columns.EmpoStatus.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

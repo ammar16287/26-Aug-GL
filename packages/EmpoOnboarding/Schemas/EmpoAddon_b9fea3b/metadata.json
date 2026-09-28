@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "11f372cf-5453-4618-91c4-d71f40174a91",
+      "A2": "EmpoAddon_b9fea3b",
+      "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "AD1": "7e4e5784-b5bd-4182-95e5-48c6dce1e934",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "AppearanceSettings",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "modalSettings": {
+    "size": 2
+  }
+}
+    }
+  }
+}

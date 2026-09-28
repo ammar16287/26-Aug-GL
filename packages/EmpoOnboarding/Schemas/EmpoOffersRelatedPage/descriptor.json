@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5fa16d67-89c5-488a-ace1-07000eb94630",
+    "Name": "EmpoOffersRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790320250000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Offers (Page settings)",
+    "DependsOn": []
+  }
+}

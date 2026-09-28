@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "054ca006-df7d-43f5-83bd-e40ec735a1bd",
+    "Name": "EmpoRequisitionMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790235058000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requisitions (Mobile page settings)",
+    "DependsOn": []
+  }
+}

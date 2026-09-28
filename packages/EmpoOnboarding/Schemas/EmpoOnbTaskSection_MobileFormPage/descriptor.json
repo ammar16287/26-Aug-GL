@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "205e6094-5f8a-4321-b17c-68499f3fe532",
+    "Name": "EmpoOnbTaskSection_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1789988216000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Onboarding Tasks mobile form page",
+    "DependsOn": []
+  }
+}

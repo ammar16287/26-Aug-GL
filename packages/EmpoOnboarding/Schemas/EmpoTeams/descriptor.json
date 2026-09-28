@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "546b0771-5ffb-4671-88bf-2b59d4112bcb",
+    "Name": "EmpoTeams",
+    "ModifiedOnUtc": "\/Date(1790163149000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Teams",
+    "DependsOn": []
+  }
+}

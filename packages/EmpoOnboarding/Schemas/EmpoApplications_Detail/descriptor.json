@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e4ff6149-eb41-4082-b9b0-189d5e42ff3e",
+    "Name": "EmpoApplications_Detail",
+    "ModifiedOnUtc": "\/Date(1790247203000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Applications detail",
+    "DependsOn": []
+  }
+}

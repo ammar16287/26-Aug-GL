@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "622a6be8-8ae1-49a1-9fc4-e0d59d462570",
+    "Name": "EmpoOnbDocument",
+    "ModifiedOnUtc": "\/Date(1790149050000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding document",
+    "DependsOn": []
+  }
+}

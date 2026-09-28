@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Onboarding Overview" />
+			<Item Name="LocalizableStrings.ChartWidget_aw3usg0_series_0.Value" Value="Employee Onboarding Hub" />
+			<Item Name="LocalizableStrings.ChartWidget_aw3usg0_title.Value" Value="Onboardings by Department" />
+			<Item Name="LocalizableStrings.ChartWidget_dkm5b7k_series_0.Value" Value="Employee Onboarding Hub" />
+			<Item Name="LocalizableStrings.ChartWidget_dkm5b7k_title.Value" Value="Onboardings by Status" />
+			<Item Name="LocalizableStrings.ChartWidget_inffian_series_0.Value" Value="Onboarding Task" />
+			<Item Name="LocalizableStrings.ChartWidget_inffian_title.Value" Value="Tasks by Stage" />
+			<Item Name="LocalizableStrings.ChartWidget_rec4bkug8m_series_0.Value" Value="Applications" />
+			<Item Name="LocalizableStrings.ChartWidget_rec4bkug8m_title.Value" Value="Applications by stage" />
+			<Item Name="LocalizableStrings.ChartWidget_recfioiw84_series_0.Value" Value="Requisitions" />
+			<Item Name="LocalizableStrings.ChartWidget_recfioiw84_title.Value" Value="Requisitions by status" />
+			<Item Name="LocalizableStrings.ChartWidget_recgo6lgna_series_0.Value" Value="Interviews" />
+			<Item Name="LocalizableStrings.ChartWidget_recgo6lgna_title.Value" Value="Interviews by status" />
+			<Item Name="LocalizableStrings.IndicatorWidget_frfzqmo_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_frfzqmo_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_frfzqmo_title.Value" Value="Completed tasks" />
+			<Item Name="LocalizableStrings.IndicatorWidget_jf0smgf_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_jf0smgf_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_jf0smgf_title.Value" Value="Total onboardings" />
+			<Item Name="LocalizableStrings.IndicatorWidget_kpsoz1i_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_kpsoz1i_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_kpsoz1i_title.Value" Value="Total tasks" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rec1twkndh_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rec1twkndh_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rec1twkndh_title.Value" Value="Requisitions" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rec945g3s3_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rec945g3s3_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_rec945g3s3_title.Value" Value="Interviews" />
+			<Item Name="LocalizableStrings.IndicatorWidget_recvj24jbu_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_recvj24jbu_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_recvj24jbu_title.Value" Value="Applications" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wbd9w1x_config_text_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wbd9w1x_hint.Value" Value="Components.IndicatorWidget.Hint" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wbd9w1x_title.Value" Value="Active onboardings" />
+		</Items>
+	</Group>
+</Resources>

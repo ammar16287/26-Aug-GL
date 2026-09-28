@@ -1,0 +1,10 @@
+= MetaData.Schema.UId "1fa86dad-4860-4291-8159-60383f1c7098"
+= MetaData.Schema.A2 "EmpoRequisition_MobileFormPage"
+= MetaData.Schema.A5 "d484d861-d8e5-4a3f-84ad-1d9256189431"
+~ MetaData.Schema.B2 ["951eab09-2048-4d92-a5c5-8f08ffbc10cd","444d2e9c-736b-489d-bf8c-0fab545268da","9cdfa9d8-a656-435f-beac-cac4344edd40","13493f2b-e208-4be4-804c-46b9fc0be26b"]
+= MetaData.Schema.B6 "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a"
+= MetaData.Schema.HD1 "019c694a-1a3b-4812-b2e5-219b326061ae"
+= MetaData.Schema.HD6 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

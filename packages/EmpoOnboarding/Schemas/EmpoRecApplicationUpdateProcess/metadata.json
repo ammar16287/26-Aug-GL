@@ -1,0 +1,179 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+      "A2": "EmpoRecApplicationUpdateProcess",
+      "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+        "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "6e1ba40b-a743-43e0-9ab2-e9017b05c17f",
+          "A2": "LaneSet1",
+          "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "ad4e4ee5-b405-44b3-999c-7530a6c0b5ae",
+              "A2": "Lane1",
+              "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+              "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+              "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+              "IL2": "6e1ba40b-a743-43e0-9ab2-e9017b05c17f",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "6e1ba40b-a743-43e0-9ab2-e9017b05c17f",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "e6a46b9c-8a1f-4c86-a0ed-433a0c75a247",
+          "A2": "TerminateEvent1",
+          "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "ad4e4ee5-b405-44b3-999c-7530a6c0b5ae",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartSignalEvent",
+          "UId": "bf5e516e-9af5-49ac-9490-6b533da74bb5",
+          "A2": "StartSignal1",
+          "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "ad4e4ee5-b405-44b3-999c-7530a6c0b5ae",
+          "IL3": true,
+          "BL3": "50;184",
+          "BL7": "1129e72f-0e8c-445a-b2ea-463517e86395",
+          "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "67349cea-0045-4467-82b7-be8c0b93dc09",
+              "A2": "RecordId",
+              "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+              "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+              "IL2": "bf5e516e-9af5-49ac-9490-6b533da74bb5",
+              "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+              "L8": {
+                "GS1": 1,
+                "GS2": ""
+              }
+            }
+          ],
+          "FC2": "2370b673-176c-4af0-869f-b303ed0e6f91",
+          "ED1": false,
+          "DZ1": "null",
+          "DZ2": false,
+          "DZ3": true,
+          "DZ5": 2,
+          "DZ12": "[]",
+          "DZ13": "{\"className\":\"Terrasoft.FilterGroup\",\"serializedFilterEditData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"EmpoApplication\\\",\\\"key\\\":\\\"\\\"}\",\"dataSourceFilters\":\"{\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"EmpoApplication\\\"}\"}"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "7d590758-460f-4b38-9952-42e0b302f8e8",
+          "A2": "ScriptTask1",
+          "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "ad4e4ee5-b405-44b3-999c-7530a6c0b5ae",
+          "BL3": "308;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "// ===== Recruitment automation (shared helpers) =====\nvar uc = UserConnection;\nGuid TaskTypeId = new Guid(\"fbe0acdc-cfc0-df11-b00f-001d60e938c6\");\nGuid CategoryToDoId = new Guid(\"f51c4643-58e6-df11-971b-001d60e938c6\");\nGuid CategoryMeetingId = new Guid(\"42c74c49-58e6-df11-971b-001d60e938c6\");\nGuid ActNotStartedId = new Guid(\"384d4b84-58e6-df11-971b-001d60e938c6\");\nGuid ActCompletedId = new Guid(\"4bdbb88f-58e6-df11-971b-001d60e938c6\");\nGuid ActCanceledId = new Guid(\"201cfba8-58e6-df11-971b-001d60e938c6\");\nGuid PriorityMediumId = new Guid(\"ab96fa02-7fe6-df11-971b-001d60e938c6\");\nGuid CurrentContactId = uc.CurrentUser.ContactId;\nDateTime Now = uc.CurrentUser.GetCurrentDateTime();\n\nstring DisplayColumn(string schemaName) {\n\treturn uc.EntitySchemaManager.GetInstanceByName(schemaName).PrimaryDisplayColumn.ColumnValueName;\n}\nGuid LookupId(string schemaName, string name) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Top(1).Column(\"Id\").From(schemaName)\n\t\t.Where(DisplayColumn(schemaName)).IsEqual(Terrasoft.Core.DB.Column.Parameter(name)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<Guid>();\n}\nstring LookupName(string schemaName, Guid id) {\n\tif (id == Guid.Empty) {\n\t\treturn string.Empty;\n\t}\n\tvar select = new Terrasoft.Core.DB.Select(uc).Top(1).Column(DisplayColumn(schemaName)).From(schemaName)\n\t\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(id)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<string>() ?? string.Empty;\n}\nTerrasoft.Core.Entities.Entity Load(string schemaName, Guid id) {\n\tif (id == Guid.Empty) {\n\t\treturn null;\n\t}\n\tvar entity = uc.EntitySchemaManager.GetInstanceByName(schemaName).CreateEntity(uc);\n\treturn entity.FetchFromDB(id) ? entity : null;\n}\nbool SetValue(Terrasoft.Core.Entities.Entity entity, string column, object value) {\n\tobject current = entity.GetColumnValue(column);\n\tif (Equals(current, value)) {\n\t\treturn false;\n\t}\n\tentity.SetColumnValue(column, value);\n\treturn true;\n}\nbool IsEmptyGuid(Terrasoft.Core.Entities.Entity entity, string column) {\n\treturn entity.GetTypedColumnValue<Guid>(column) == Guid.Empty;\n}\nbool IsEmptyText(Terrasoft.Core.Entities.Entity entity, string column) {\n\treturn string.IsNullOrWhiteSpace(entity.GetTypedColumnValue<string>(column));\n}\nbool IsEmptyDate(Terrasoft.Core.Entities.Entity entity, string column) {\n\treturn entity.GetTypedColumnValue<DateTime>(column) == DateTime.MinValue;\n}\nint CountBy(string schemaName, string column, Guid value) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(schemaName)\n\t\t.Where(column).IsEqual(Terrasoft.Core.DB.Column.Parameter(value)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<int>();\n}\nvoid RecalcApplicants(Guid jobAdId) {\n\tif (jobAdId == Guid.Empty) {\n\t\treturn;\n\t}\n\tvar update = new Terrasoft.Core.DB.Update(uc, \"EmpoJobAdvertisement\")\n\t\t.Set(\"EmpoApplicants\", Terrasoft.Core.DB.Column.Parameter(CountBy(\"EmpoApplication\", \"EmpoJobAdvertisementId\", jobAdId)))\n\t\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(jobAdId)) as Terrasoft.Core.DB.Update;\n\tupdate.Execute();\n}\n// Fills Requisition / Company / Source / Name defaults. Returns true when something changed.\nbool ApplyApplicationDefaults(Terrasoft.Core.Entities.Entity app) {\n\tbool changed = false;\n\tGuid jobAdId = app.GetTypedColumnValue<Guid>(\"EmpoJobAdvertisementId\");\n\tif (IsEmptyGuid(app, \"EmpoRequisitionId\") && jobAdId != Guid.Empty) {\n\t\tvar ad = Load(\"EmpoJobAdvertisement\", jobAdId);\n\t\tif (ad != null && ad.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\") != Guid.Empty) {\n\t\t\tchanged |= SetValue(app, \"EmpoRequisitionId\", ad.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\"));\n\t\t}\n\t}\n\tGuid reqId = app.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\");\n\tif (IsEmptyGuid(app, \"EmpoCompanyId\") && reqId != Guid.Empty) {\n\t\tvar req = Load(\"EmpoRequisition\", reqId);\n\t\tif (req != null && req.GetTypedColumnValue<Guid>(\"EmpoCompanyId\") != Guid.Empty) {\n\t\t\tchanged |= SetValue(app, \"EmpoCompanyId\", req.GetTypedColumnValue<Guid>(\"EmpoCompanyId\"));\n\t\t}\n\t}\n\tvar candidate = Load(\"EmpoCandidate\", app.GetTypedColumnValue<Guid>(\"EmpoCandidateId\"));\n\tif (candidate != null && IsEmptyGuid(app, \"EmpoSourceId\") && candidate.GetTypedColumnValue<Guid>(\"EmpoSourceId\") != Guid.Empty) {\n\t\tchanged |= SetValue(app, \"EmpoSourceId\", candidate.GetTypedColumnValue<Guid>(\"EmpoSourceId\"));\n\t}\n\tif (IsEmptyText(app, \"EmpoName\") && candidate != null) {\n\t\tstring position = LookupName(\"EmpoJobAdvertisement\", jobAdId);\n\t\tif (string.IsNullOrEmpty(position)) {\n\t\t\tposition = LookupName(\"EmpoRequisition\", reqId);\n\t\t}\n\t\tstring name = candidate.GetTypedColumnValue<string>(\"EmpoName\") + (string.IsNullOrEmpty(position) ? \"\" : \" - \" + position);\n\t\tchanged |= SetValue(app, \"EmpoName\", name.Length > 250 ? name.Substring(0, 250) : name);\n\t}\n\treturn changed;\n}\n// Makes sure the candidate has a Contact record; returns its Id.\nGuid EnsureCandidateContact(Guid candidateId) {\n\tvar candidate = Load(\"EmpoCandidate\", candidateId);\n\tif (candidate == null) {\n\t\treturn Guid.Empty;\n\t}\n\tGuid contactId = candidate.GetTypedColumnValue<Guid>(\"EmpoContactId\");\n\tif (contactId != Guid.Empty) {\n\t\treturn contactId;\n\t}\n\tvar contact = uc.EntitySchemaManager.GetInstanceByName(\"Contact\").CreateEntity(uc);\n\tcontact.SetDefColumnValues();\n\tcontactId = Guid.NewGuid();\n\tcontact.SetColumnValue(\"Id\", contactId);\n\tcontact.SetColumnValue(\"Name\", candidate.GetTypedColumnValue<string>(\"EmpoName\"));\n\tcontact.SetColumnValue(\"Email\", candidate.GetTypedColumnValue<string>(\"EmpoEmail\"));\n\tcontact.SetColumnValue(\"MobilePhone\", candidate.GetTypedColumnValue<string>(\"EmpoPhone\"));\n\tcontact.SetColumnValue(\"JobTitle\", candidate.GetTypedColumnValue<string>(\"EmpoCurrentPosition\"));\n\tcontact.Save(false);\n\tcandidate.SetColumnValue(\"EmpoContactId\", contactId);\n\tcandidate.Save(false);\n\treturn contactId;\n}\nGuid CreateActivity(string title, DateTime start, DateTime due, Guid ownerId, Guid categoryId, Guid contactId, string location, string notes) {\n\tvar activity = uc.EntitySchemaManager.GetInstanceByName(\"Activity\").CreateEntity(uc);\n\tactivity.SetDefColumnValues();\n\tGuid id = Guid.NewGuid();\n\tactivity.SetColumnValue(\"Id\", id);\n\tactivity.SetColumnValue(\"Title\", title.Length > 500 ? title.Substring(0, 500) : title);\n\tactivity.SetColumnValue(\"StartDate\", start);\n\tactivity.SetColumnValue(\"DueDate\", due);\n\tactivity.SetColumnValue(\"OwnerId\", ownerId != Guid.Empty ? ownerId : CurrentContactId);\n\tactivity.SetColumnValue(\"AuthorId\", CurrentContactId);\n\tactivity.SetColumnValue(\"TypeId\", TaskTypeId);\n\tactivity.SetColumnValue(\"ActivityCategoryId\", categoryId);\n\tactivity.SetColumnValue(\"StatusId\", ActNotStartedId);\n\tactivity.SetColumnValue(\"PriorityId\", PriorityMediumId);\n\tactivity.SetColumnValue(\"ShowInScheduler\", true);\n\tif (contactId != Guid.Empty) {\n\t\tactivity.SetColumnValue(\"ContactId\", contactId);\n\t}\n\tif (!string.IsNullOrEmpty(location)) {\n\t\tactivity.SetColumnValue(\"Location\", location.Length > 250 ? location.Substring(0, 250) : location);\n\t}\n\tif (!string.IsNullOrEmpty(notes)) {\n\t\tactivity.SetColumnValue(\"Notes\", notes);\n\t}\n\tactivity.Save(false);\n\treturn id;\n}\n\nbool Run() {\n\t// ===== Application changed: acknowledgement, prescreening, hire =====\n\tGuid recordId = Get<Guid>(\"StartSignal1.RecordId\");\n\tvar app = Load(\"EmpoApplication\", recordId);\n\tif (app == null) {\n\t\treturn true;\n\t}\n\tbool appChanged = ApplyApplicationDefaults(app);\n\tstring stage = LookupName(\"EmpoApplicationStage\", app.GetTypedColumnValue<Guid>(\"EmpoStageId\"));\n\tstring prescreen = LookupName(\"EmpoPrescreenResult\", app.GetTypedColumnValue<Guid>(\"EmpoPrescreenResultId\"));\n\tbool isEarly = stage == \"\" || stage == \"New inquiry\" || stage == \"Acknowledged\" || stage == \"Prescreening\";\n\tbool isClosed = stage == \"Rejected\" || stage == \"Hired\" || stage == \"Withdrawn\";\n\t// Inquiry acknowledged -> Acknowledged stage\n\tif (app.GetTypedColumnValue<bool>(\"EmpoAcknowledged\") && (stage == \"\" || stage == \"New inquiry\")) {\n\t\tstage = \"Acknowledged\";\n\t\tappChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t}\n\t// Prescreening outcome\n\tif (prescreen != \"\" && prescreen != \"Pending\") {\n\t\tif (IsEmptyDate(app, \"EmpoPrescreenDate\")) {\n\t\t\tappChanged |= SetValue(app, \"EmpoPrescreenDate\", Now);\n\t\t}\n\t\tif (IsEmptyGuid(app, \"EmpoPrescreenedById\") && CurrentContactId != Guid.Empty) {\n\t\t\tappChanged |= SetValue(app, \"EmpoPrescreenedById\", CurrentContactId);\n\t\t}\n\t}\n\tif (prescreen == \"Passed\" && isEarly) {\n\t\tstage = \"AI evaluation\";\n\t\tappChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t} else if (prescreen == \"Failed\" && !isClosed) {\n\t\tstage = \"Rejected\";\n\t\tappChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t\tif (IsEmptyText(app, \"EmpoRejectionReason\")) {\n\t\t\tappChanged |= SetValue(app, \"EmpoRejectionReason\", \"Did not pass prescreening\");\n\t\t}\n\t} else if (prescreen == \"On hold\" && (stage == \"New inquiry\" || stage == \"Acknowledged\")) {\n\t\tstage = \"Prescreening\";\n\t\tappChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t}\n\tif (appChanged) {\n\t\tapp.Save(false);\n\t}\n\tRecalcApplicants(app.GetTypedColumnValue<Guid>(\"EmpoJobAdvertisementId\"));\n\tGuid candidateIdForChecks = app.GetTypedColumnValue<Guid>(\"EmpoCandidateId\");\n\t// ===== Background check (fields on the application) =====\n\tbool stepChanged = false;\n\tstring bgStatus = LookupName(\"EmpoBgCheckStatus\", app.GetTypedColumnValue<Guid>(\"EmpoBgCheckStatusId\"));\n\tif (stage == \"Background check\" && string.IsNullOrEmpty(bgStatus)) {\n\t\tbgStatus = \"Not started\";\n\t\tstepChanged |= SetValue(app, \"EmpoBgCheckStatusId\", LookupId(\"EmpoBgCheckStatus\", bgStatus));\n\t}\n\tif (!string.IsNullOrEmpty(bgStatus)) {\n\t\tif (IsEmptyGuid(app, \"EmpoBgCheckAssignedToId\") && !IsEmptyGuid(app, \"EmpoRecruiterId\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoBgCheckAssignedToId\", app.GetTypedColumnValue<Guid>(\"EmpoRecruiterId\"));\n\t\t}\n\t\tif (IsEmptyDate(app, \"EmpoBgCheckDueDate\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoBgCheckDueDate\", Now.Date.AddDays(7));\n\t\t}\n\t\tstring[] bgItems = new string[] { \"EmpoBgIdentityVerified\", \"EmpoBgEducationVerified\", \"EmpoBgEmploymentVerified\", \"EmpoBgCriminalRecordCleared\", \"EmpoBgReferencesChecked\" };\n\t\tint bgDone = 0;\n\t\tforeach (string bgItem in bgItems) {\n\t\t\tif (app.GetTypedColumnValue<bool>(bgItem)) {\n\t\t\t\tbgDone++;\n\t\t\t}\n\t\t}\n\t\tif (bgStatus == \"Not started\" && bgDone > 0) {\n\t\t\tbgStatus = \"In progress\";\n\t\t\tstepChanged |= SetValue(app, \"EmpoBgCheckStatusId\", LookupId(\"EmpoBgCheckStatus\", bgStatus));\n\t\t}\n\t\tif ((bgStatus == \"Not started\" || bgStatus == \"In progress\") && bgDone == bgItems.Length) {\n\t\t\tbgStatus = \"Cleared\";\n\t\t\tstepChanged |= SetValue(app, \"EmpoBgCheckStatusId\", LookupId(\"EmpoBgCheckStatus\", bgStatus));\n\t\t}\n\t\tbool bgFinished = bgStatus == \"Cleared\" || bgStatus == \"Flagged\" || bgStatus == \"Failed\";\n\t\tif (bgFinished && IsEmptyDate(app, \"EmpoBgCheckCompletedOn\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoBgCheckCompletedOn\", Now);\n\t\t\tif (bgStatus == \"Flagged\" || bgStatus == \"Failed\") {\n\t\t\t\tCreateActivity(\"Review background check (\" + bgStatus + \"): \" + app.GetTypedColumnValue<string>(\"EmpoName\"),\n\t\t\t\t\tNow, Now.AddDays(1), app.GetTypedColumnValue<Guid>(\"EmpoRecruiterId\"), CategoryToDoId, Guid.Empty, null,\n\t\t\t\t\t\"Findings: \" + app.GetTypedColumnValue<string>(\"EmpoBgCheckResult\"));\n\t\t\t}\n\t\t}\n\t\t// Background check cleared -> Offer stage\n\t\tif (bgStatus == \"Cleared\" && stage == \"Background check\") {\n\t\t\tstage = \"Offer\";\n\t\t\tstepChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t\t}\n\t}\n\t// ===== Offer (fields on the application) =====\n\tstring offerStatus = LookupName(\"EmpoOnbOfferStatus\", app.GetTypedColumnValue<Guid>(\"EmpoOfferStatusId\"));\n\tif (stage == \"Offer\" && string.IsNullOrEmpty(offerStatus)) {\n\t\tofferStatus = \"Not sent\";\n\t\tstepChanged |= SetValue(app, \"EmpoOfferStatusId\", LookupId(\"EmpoOnbOfferStatus\", offerStatus));\n\t}\n\tif (!string.IsNullOrEmpty(offerStatus)) {\n\t\tvar offerReq = Load(\"EmpoRequisition\", app.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\"));\n\t\tvar offerCand = Load(\"EmpoCandidate\", app.GetTypedColumnValue<Guid>(\"EmpoCandidateId\"));\n\t\tstring offerCandName = offerCand != null ? offerCand.GetTypedColumnValue<string>(\"EmpoName\") : app.GetTypedColumnValue<string>(\"EmpoName\");\n\t\tif (IsEmptyText(app, \"EmpoOfferJobTitle\") && offerReq != null && !IsEmptyText(offerReq, \"EmpoJobTitle\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoOfferJobTitle\", offerReq.GetTypedColumnValue<string>(\"EmpoJobTitle\"));\n\t\t}\n\t\tif (IsEmptyText(app, \"EmpoOfferedSalary\")) {\n\t\t\tstring offerSalary = !IsEmptyText(app, \"EmpoExpectedSalary\") ? app.GetTypedColumnValue<string>(\"EmpoExpectedSalary\")\n\t\t\t\t: (offerReq != null ? offerReq.GetTypedColumnValue<string>(\"EmpoSalaryRange\") : string.Empty);\n\t\t\tif (!string.IsNullOrEmpty(offerSalary)) {\n\t\t\t\tstepChanged |= SetValue(app, \"EmpoOfferedSalary\", offerSalary);\n\t\t\t}\n\t\t}\n\t\tif (IsEmptyDate(app, \"EmpoOfferStartDate\")) {\n\t\t\tDateTime proposedStart = Now.Date.AddDays(14);\n\t\t\tif (!IsEmptyDate(app, \"EmpoAvailableFrom\") && app.GetTypedColumnValue<DateTime>(\"EmpoAvailableFrom\") > proposedStart) {\n\t\t\t\tproposedStart = app.GetTypedColumnValue<DateTime>(\"EmpoAvailableFrom\");\n\t\t\t}\n\t\t\tif (offerReq != null && !IsEmptyDate(offerReq, \"EmpoTargetStartDate\") && offerReq.GetTypedColumnValue<DateTime>(\"EmpoTargetStartDate\") > proposedStart) {\n\t\t\t\tproposedStart = offerReq.GetTypedColumnValue<DateTime>(\"EmpoTargetStartDate\");\n\t\t\t}\n\t\t\tstepChanged |= SetValue(app, \"EmpoOfferStartDate\", proposedStart);\n\t\t}\n\t\tif (IsEmptyText(app, \"EmpoOfferLetter\")) {\n\t\t\tGuid offerCompanyId = app.GetTypedColumnValue<Guid>(\"EmpoCompanyId\");\n\t\t\tif (offerCompanyId == Guid.Empty && offerReq != null) {\n\t\t\t\tofferCompanyId = offerReq.GetTypedColumnValue<Guid>(\"EmpoCompanyId\");\n\t\t\t}\n\t\t\tstring offerCompany = LookupName(\"EmpoCompany\", offerCompanyId);\n\t\t\tstring offerTitle = app.GetTypedColumnValue<string>(\"EmpoOfferJobTitle\");\n\t\t\tstring letter = \"Dear \" + offerCandName + \",\\n\\n\"\n\t\t\t\t+ \"We are pleased to offer you the position of \" + (string.IsNullOrEmpty(offerTitle) ? \"[job title]\" : offerTitle)\n\t\t\t\t+ (string.IsNullOrEmpty(offerCompany) ? \"\" : \" at \" + offerCompany) + \".\\n\\n\"\n\t\t\t\t+ \"Proposed start date: \" + app.GetTypedColumnValue<DateTime>(\"EmpoOfferStartDate\").ToString(\"dd MMM yyyy\") + \"\\n\"\n\t\t\t\t+ \"Compensation: \" + (IsEmptyText(app, \"EmpoOfferedSalary\") ? \"[salary]\" : app.GetTypedColumnValue<string>(\"EmpoOfferedSalary\")) + \"\\n\\n\"\n\t\t\t\t+ \"This offer is subject to the satisfactory completion of background checks and the documents required for onboarding \"\n\t\t\t\t+ \"(signed contract/NDA, national ID or passport, educational certificates).\\n\\n\"\n\t\t\t\t+ \"Please confirm your acceptance by the response date stated in this offer.\\n\\n\"\n\t\t\t\t+ \"Kind regards,\\nHR Team\";\n\t\t\tstepChanged |= SetValue(app, \"EmpoOfferLetter\", letter);\n\t\t}\n\t\tif (offerStatus == \"Sent\" && IsEmptyDate(app, \"EmpoOfferSentOn\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoOfferSentOn\", Now);\n\t\t}\n\t\tif (offerStatus == \"Sent\" && IsEmptyDate(app, \"EmpoOfferResponseDue\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoOfferResponseDue\", Now.Date.AddDays(7));\n\t\t}\n\t\tif ((offerStatus == \"Accepted\" || offerStatus == \"Declined\") && IsEmptyDate(app, \"EmpoOfferRespondedOn\")) {\n\t\t\tstepChanged |= SetValue(app, \"EmpoOfferRespondedOn\", Now);\n\t\t\tif (IsEmptyDate(app, \"EmpoOfferSentOn\")) {\n\t\t\t\tstepChanged |= SetValue(app, \"EmpoOfferSentOn\", Now);\n\t\t\t}\n\t\t}\n\t\t// Offer accepted -> Hired; declined -> Withdrawn\n\t\tif (offerStatus == \"Accepted\" && stage != \"Hired\") {\n\t\t\tstage = \"Hired\";\n\t\t\tstepChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t\t} else if (offerStatus == \"Declined\" && stage != \"Withdrawn\" && stage != \"Hired\") {\n\t\t\tstage = \"Withdrawn\";\n\t\t\tstepChanged |= SetValue(app, \"EmpoStageId\", LookupId(\"EmpoApplicationStage\", stage));\n\t\t\tif (IsEmptyText(app, \"EmpoRejectionReason\")) {\n\t\t\t\tstring declineReason = app.GetTypedColumnValue<string>(\"EmpoOfferDeclineReason\");\n\t\t\t\tstepChanged |= SetValue(app, \"EmpoRejectionReason\", \"Offer declined\" + (string.IsNullOrEmpty(declineReason) ? \"\" : \": \" + declineReason));\n\t\t\t}\n\t\t}\n\t}\n\tif (stepChanged) {\n\t\tapp.Save(false);\n\t}\n\t// Hired -> create the Employee Onboarding record\n\tif (stage == \"Hired\" && IsEmptyGuid(app, \"EmpoOnboardingId\")) {\n\t\tGuid candidateId = app.GetTypedColumnValue<Guid>(\"EmpoCandidateId\");\n\t\tGuid employeeId = EnsureCandidateContact(candidateId);\n\t\tvar cand = Load(\"EmpoCandidate\", candidateId);\n\t\tvar req = Load(\"EmpoRequisition\", app.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\"));\n\t\tvar onb = uc.EntitySchemaManager.GetInstanceByName(\"EmpoOnboarding\").CreateEntity(uc);\n\t\tonb.SetDefColumnValues();\n\t\tGuid onbId = Guid.NewGuid();\n\t\tonb.SetColumnValue(\"Id\", onbId);\n\t\tstring empName = cand != null ? cand.GetTypedColumnValue<string>(\"EmpoName\") : app.GetTypedColumnValue<string>(\"EmpoName\");\n\t\tonb.SetColumnValue(\"EmpoName\", empName);\n\t\tif (employeeId != Guid.Empty) {\n\t\t\tonb.SetColumnValue(\"EmpoEmployeeId\", employeeId);\n\t\t}\n\t\tif (!IsEmptyGuid(app, \"EmpoCompanyId\")) {\n\t\t\tonb.SetColumnValue(\"EmpoCompanyId\", app.GetTypedColumnValue<Guid>(\"EmpoCompanyId\"));\n\t\t}\n\t\tDateTime startDate = Now.Date.AddDays(14);\n\t\tif (!IsEmptyDate(app, \"EmpoAvailableFrom\")) {\n\t\t\tstartDate = app.GetTypedColumnValue<DateTime>(\"EmpoAvailableFrom\");\n\t\t}\n\t\tif (req != null) {\n\t\t\tif (!IsEmptyDate(req, \"EmpoTargetStartDate\") && req.GetTypedColumnValue<DateTime>(\"EmpoTargetStartDate\") > startDate) {\n\t\t\t\tstartDate = req.GetTypedColumnValue<DateTime>(\"EmpoTargetStartDate\");\n\t\t\t}\n\t\t\tif (!IsEmptyGuid(req, \"EmpoDepartmentId\")) {\n\t\t\t\tonb.SetColumnValue(\"EmpoDepartmentId\", req.GetTypedColumnValue<Guid>(\"EmpoDepartmentId\"));\n\t\t\t}\n\t\t\tif (!IsEmptyGuid(req, \"EmpoHiringManagerId\")) {\n\t\t\t\tonb.SetColumnValue(\"EmpoHiringManagerId\", req.GetTypedColumnValue<Guid>(\"EmpoHiringManagerId\"));\n\t\t\t\tonb.SetColumnValue(\"EmpoLineManagerId\", req.GetTypedColumnValue<Guid>(\"EmpoHiringManagerId\"));\n\t\t\t}\n\t\t\tif (!IsEmptyGuid(req, \"EmpoTeamId\")) {\n\t\t\t\tonb.SetColumnValue(\"EmpoTeamId\", req.GetTypedColumnValue<Guid>(\"EmpoTeamId\"));\n\t\t\t}\n\t\t\tif (!IsEmptyText(req, \"EmpoJobTitle\")) {\n\t\t\t\tonb.SetColumnValue(\"EmpoJobTitle\", req.GetTypedColumnValue<string>(\"EmpoJobTitle\"));\n\t\t\t}\n\t\t\tif (IsEmptyGuid(app, \"EmpoCompanyId\") && !IsEmptyGuid(req, \"EmpoCompanyId\")) {\n\t\t\t\tonb.SetColumnValue(\"EmpoCompanyId\", req.GetTypedColumnValue<Guid>(\"EmpoCompanyId\"));\n\t\t\t}\n\t\t}\n\t\tonb.SetColumnValue(\"EmpoStartDate\", startDate);\n\t\tif (cand != null) {\n\t\t\tonb.SetColumnValue(\"EmpoPersonalEmail\", cand.GetTypedColumnValue<string>(\"EmpoEmail\"));\n\t\t\tonb.SetColumnValue(\"EmpoPersonalPhone\", cand.GetTypedColumnValue<string>(\"EmpoPhone\"));\n\t\t\tonb.SetColumnValue(\"EmpoLocation\", cand.GetTypedColumnValue<string>(\"EmpoLocation\"));\n\t\t}\n\t\tonb.SetColumnValue(\"EmpoOfferedSalary\", app.GetTypedColumnValue<string>(\"EmpoExpectedSalary\"));\n\t\t// Offer details now live on the application\n\t\tif (!IsEmptyText(app, \"EmpoOfferedSalary\")) {\n\t\t\tonb.SetColumnValue(\"EmpoOfferedSalary\", app.GetTypedColumnValue<string>(\"EmpoOfferedSalary\"));\n\t\t}\n\t\tif (!IsEmptyText(app, \"EmpoOfferJobTitle\")) {\n\t\t\tonb.SetColumnValue(\"EmpoJobTitle\", app.GetTypedColumnValue<string>(\"EmpoOfferJobTitle\"));\n\t\t}\n\t\tif (!IsEmptyDate(app, \"EmpoOfferStartDate\")) {\n\t\t\tstartDate = app.GetTypedColumnValue<DateTime>(\"EmpoOfferStartDate\");\n\t\t}\n\t\tif (!IsEmptyGuid(app, \"EmpoOfferStatusId\")) {\n\t\t\tonb.SetColumnValue(\"EmpoOfferStatusId\", app.GetTypedColumnValue<Guid>(\"EmpoOfferStatusId\"));\n\t\t}\n\t\tif (!IsEmptyDate(app, \"EmpoOfferSentOn\")) {\n\t\t\tonb.SetColumnValue(\"EmpoOfferSentOn\", app.GetTypedColumnValue<DateTime>(\"EmpoOfferSentOn\"));\n\t\t\tonb.SetColumnValue(\"EmpoOfferDate\", app.GetTypedColumnValue<DateTime>(\"EmpoOfferSentOn\"));\n\t\t}\n\t\tif (!IsEmptyDate(app, \"EmpoOfferRespondedOn\")) {\n\t\t\tonb.SetColumnValue(\"EmpoOfferAcceptedOn\", app.GetTypedColumnValue<DateTime>(\"EmpoOfferRespondedOn\"));\n\t\t}\n\t\tif (!IsEmptyText(app, \"EmpoOfferNotes\")) {\n\t\t\tonb.SetColumnValue(\"EmpoOfferNotes\", app.GetTypedColumnValue<string>(\"EmpoOfferNotes\"));\n\t\t}\n\t\tonb.SetColumnValue(\"EmpoStartDate\", startDate);\n\t\tGuid statusId = LookupId(\"EmpoOnbStatus\", \"Not started\");\n\t\tif (statusId != Guid.Empty) {\n\t\t\tonb.SetColumnValue(\"EmpoStatusId\", statusId);\n\t\t}\n\t\tGuid stageId = LookupId(\"EmpoOnbStage\", \"Pre-boarding\");\n\t\tif (stageId != Guid.Empty) {\n\t\t\tonb.SetColumnValue(\"EmpoStageId\", stageId);\n\t\t}\n\t\tGuid phaseId = LookupId(\"EmpoOnbPhase\", \"1. Hire & create record\");\n\t\tif (phaseId != Guid.Empty) {\n\t\t\tonb.SetColumnValue(\"EmpoPhaseId\", phaseId);\n\t\t}\n\t\tonb.SetColumnValue(\"EmpoNotes\", \"Created from recruitment application: \" + app.GetTypedColumnValue<string>(\"EmpoName\"));\n\t\tonb.Save(false);\n\t\tapp.SetColumnValue(\"EmpoOnboardingId\", onbId);\n\t\tapp.Save(false);\n\t\tif (req != null) {\n\t\t\tbool reqChanged = false;\n\t\t\tif (IsEmptyGuid(req, \"EmpoHiredCandidateId\") && employeeId != Guid.Empty) {\n\t\t\t\treqChanged |= SetValue(req, \"EmpoHiredCandidateId\", employeeId);\n\t\t\t}\n\t\t\tif (IsEmptyGuid(req, \"EmpoOnboardingId\")) {\n\t\t\t\treqChanged |= SetValue(req, \"EmpoOnboardingId\", onbId);\n\t\t\t}\n\t\t\tif (IsEmptyDate(req, \"EmpoActualStartDate\")) {\n\t\t\t\treqChanged |= SetValue(req, \"EmpoActualStartDate\", startDate);\n\t\t\t}\n\t\t\tint positions = req.GetTypedColumnValue<int>(\"EmpoPositions\");\n\t\t\tvar hiredSelect = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(\"EmpoApplication\")\n\t\t\t\t.Where(\"EmpoRequisitionId\").IsEqual(Terrasoft.Core.DB.Column.Parameter(req.PrimaryColumnValue))\n\t\t\t\t.And(\"EmpoStageId\").IsEqual(Terrasoft.Core.DB.Column.Parameter(LookupId(\"EmpoApplicationStage\", \"Hired\"))) as Terrasoft.Core.DB.Select;\n\t\t\tint hired = hiredSelect.ExecuteScalar<int>();\n\t\t\tif (hired >= Math.Max(positions, 1)) {\n\t\t\t\tGuid filledId = LookupId(\"EmpoRequisitionStatus\", \"Filled\");\n\t\t\t\tif (filledId != Guid.Empty) {\n\t\t\t\t\treqChanged |= SetValue(req, \"EmpoStatusId\", filledId);\n\t\t\t\t}\n\t\t\t}\n\t\t\tif (reqChanged) {\n\t\t\t\treq.Save(false);\n\t\t\t}\n\t\t}\n\t}\n\treturn true;\n}\nreturn Run();\n",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "a9f39a5d-1b60-4393-8a34-2a0784edcf91",
+          "A2": "SequenceFlow1",
+          "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "CI1": "bf5e516e-9af5-49ac-9490-6b533da74bb5",
+          "CI2": "7d590758-460f-4b38-9952-42e0b302f8e8",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "308;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "db1588e9-f09f-4d46-a246-a4c92bf12ffa",
+          "A2": "SequenceFlow2",
+          "A3": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A4": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+          "CI1": "7d590758-460f-4b38-9952-42e0b302f8e8",
+          "CI2": "e6a46b9c-8a1f-4c86-a0ed-433a0c75a247",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "377;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

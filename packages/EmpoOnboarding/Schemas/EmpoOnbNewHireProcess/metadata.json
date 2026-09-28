@@ -1,0 +1,179 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+      "A2": "EmpoOnbNewHireProcess",
+      "A5": "1f95619a-0339-420a-b70a-55339370dbfb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+        "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "0463f796-457f-4ce3-b634-9b6f12a091fa",
+          "A2": "LaneSet1",
+          "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "bc6b4394-b4c9-4e9c-8c21-1a2c617bcd52",
+              "A2": "Lane1",
+              "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+              "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+              "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+              "IL2": "0463f796-457f-4ce3-b634-9b6f12a091fa",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "0463f796-457f-4ce3-b634-9b6f12a091fa",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "43adc285-ebb8-46f1-ad83-b9850e446e94",
+          "A2": "TerminateEvent1",
+          "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "IL2": "bc6b4394-b4c9-4e9c-8c21-1a2c617bcd52",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartSignalEvent",
+          "UId": "3bbc3e7a-4c98-434b-891b-d8e7ee358d74",
+          "A2": "StartSignal1",
+          "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "bc6b4394-b4c9-4e9c-8c21-1a2c617bcd52",
+          "IL3": true,
+          "BL3": "50;184",
+          "BL7": "1129e72f-0e8c-445a-b2ea-463517e86395",
+          "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "6cf8e7c3-552c-48db-a082-4a6fda8b3cc7",
+              "A2": "RecordId",
+              "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+              "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+              "IL2": "3bbc3e7a-4c98-434b-891b-d8e7ee358d74",
+              "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+              "L8": {
+                "GS1": 1,
+                "GS2": ""
+              }
+            }
+          ],
+          "FC2": "2e8479d6-6226-47b8-9416-8d9d9c57bb9d",
+          "ED1": false,
+          "DZ1": "null",
+          "DZ2": false,
+          "DZ3": true,
+          "DZ5": 1,
+          "DZ12": "[]",
+          "DZ13": "null"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "633cee09-67a7-4e64-88f0-1d0940f39db8",
+          "A2": "ScriptTask1",
+          "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "bc6b4394-b4c9-4e9c-8c21-1a2c617bcd52",
+          "BL3": "305;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "// ===== Employee Onboarding automation (shared helpers) =====\nvar uc = UserConnection;\nGuid NotificationTypeId = new Guid(\"685e7149-c015-4a4d-b4a6-2e5625a6314c\");\nGuid RemindingSourceOwnerId = new Guid(\"a76d08e1-2e2d-e011-ac0a-00155d043205\");\nGuid OnboardingModuleEntityId = new Guid(\"32ba265e-bfd6-45b4-857e-372e1bb248a6\");\nstring Phase1 = \"1. Hire & create record\";\nstring Phase2 = \"2. Job offer & acceptance\";\nstring Phase3 = \"3. Collect employee information\";\nstring Phase4 = \"4. Pre-joining preparation\";\nstring Phase5 = \"5. First day welcome\";\nstring Phase6 = \"6. Onboarding completed\";\n\nGuid LookupId(string schemaName, string name) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Top(1).Column(\"Id\").From(schemaName)\n\t\t.Where(\"Name\").IsEqual(Terrasoft.Core.DB.Column.Parameter(name)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<Guid>();\n}\nint CountBy(string schemaName, string column, Guid value) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(schemaName)\n\t\t.Where(column).IsEqual(Terrasoft.Core.DB.Column.Parameter(value)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<int>();\n}\nint CountByText(string schemaName, string column, string value) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(schemaName)\n\t\t.Where(column).IsEqual(Terrasoft.Core.DB.Column.Parameter(value)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<int>();\n}\nTerrasoft.Core.Entities.Entity Load(string schemaName, Guid id) {\n\tvar entity = uc.EntitySchemaManager.GetInstanceByName(schemaName).CreateEntity(uc);\n\treturn entity.FetchFromDB(id) ? entity : null;\n}\nbool SetValue(Terrasoft.Core.Entities.Entity entity, string column, object value) {\n\tobject current = entity.GetColumnValue(column);\n\tif (Equals(current, value)) {\n\t\treturn false;\n\t}\n\tentity.SetColumnValue(column, value);\n\treturn true;\n}\nbool SetLookup(Terrasoft.Core.Entities.Entity entity, string column, Guid value) {\n\tif (value == Guid.Empty) {\n\t\treturn false;\n\t}\n\treturn SetValue(entity, column + \"Id\", value);\n}\nvoid Notify(Guid contactId, Guid onboardingId, string caption, string message) {\n\tif (contactId == Guid.Empty) {\n\t\treturn;\n\t}\n\tvar reminding = uc.EntitySchemaManager.GetInstanceByName(\"Reminding\").CreateEntity(uc);\n\treminding.SetDefColumnValues();\n\treminding.SetColumnValue(\"Id\", Guid.NewGuid());\n\treminding.SetColumnValue(\"AuthorId\", uc.CurrentUser.ContactId);\n\treminding.SetColumnValue(\"ContactId\", contactId);\n\treminding.SetColumnValue(\"SourceId\", RemindingSourceOwnerId);\n\treminding.SetColumnValue(\"RemindTime\", DateTime.UtcNow);\n\treminding.SetColumnValue(\"Description\", message);\n\treminding.SetColumnValue(\"SubjectCaption\", caption);\n\treminding.SetColumnValue(\"PopupTitle\", \"Employee onboarding\");\n\treminding.SetColumnValue(\"SubjectId\", onboardingId);\n\treminding.SetColumnValue(\"SysEntitySchemaId\", OnboardingModuleEntityId);\n\treminding.SetColumnValue(\"NotificationTypeId\", NotificationTypeId);\n\treminding.Save(false);\n}\nvoid NotifyTeam(Terrasoft.Core.Entities.Entity onboarding, string message) {\n\tvar sent = new System.Collections.Generic.HashSet<Guid>();\n\tforeach (string col in new[] { \"EmpoHiringManagerId\", \"EmpoHrPartnerId\" }) {\n\t\tGuid contactId = onboarding.GetTypedColumnValue<Guid>(col);\n\t\tif (contactId != Guid.Empty && sent.Add(contactId)) {\n\t\t\tNotify(contactId, onboarding.PrimaryColumnValue, onboarding.GetTypedColumnValue<string>(\"EmpoName\"), message);\n\t\t}\n\t}\n}\nvoid Recalc(Guid onboardingId) {\n\tif (onboardingId == Guid.Empty) {\n\t\treturn;\n\t}\n\tGuid completed = LookupId(\"EmpoOnbTaskStatus\", \"Completed\");\n\tGuid skipped = LookupId(\"EmpoOnbTaskStatus\", \"Skipped\");\n\tvar esq = new Terrasoft.Core.Entities.EntitySchemaQuery(uc.EntitySchemaManager, \"EmpoOnbTask\");\n\tesq.AddColumn(\"EmpoStatus\");\n\tesq.AddColumn(\"EmpoDueDate\");\n\tesq.Filters.Add(esq.CreateFilterWithParameters(Terrasoft.Core.Entities.FilterComparisonType.Equal, \"EmpoOnboarding\", onboardingId));\n\tvar tasks = esq.GetEntityCollection(uc);\n\tint total = tasks.Count, done = 0, overdue = 0;\n\tDateTime today = DateTime.UtcNow.Date;\n\tforeach (var task in tasks) {\n\t\tGuid status = task.GetTypedColumnValue<Guid>(\"EmpoStatusId\");\n\t\tif (status == completed || status == skipped) {\n\t\t\tdone++;\n\t\t} else {\n\t\t\tDateTime due = task.GetTypedColumnValue<DateTime>(\"EmpoDueDate\");\n\t\t\tif (due != DateTime.MinValue && due.Date < today) {\n\t\t\t\toverdue++;\n\t\t\t}\n\t\t}\n\t}\n\tint percent = total > 0 ? (int)Math.Round(done * 100.0 / total) : 0;\n\tvar update = new Terrasoft.Core.DB.Update(uc, \"EmpoOnboarding\")\n\t\t.Set(\"EmpoTaskTotalCount\", Terrasoft.Core.DB.Column.Parameter(total))\n\t\t.Set(\"EmpoTaskCompletedCount\", Terrasoft.Core.DB.Column.Parameter(done))\n\t\t.Set(\"EmpoTaskOverdueCount\", Terrasoft.Core.DB.Column.Parameter(overdue))\n\t\t.Set(\"EmpoProgressPercent\", Terrasoft.Core.DB.Column.Parameter(percent))\n\t\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(onboardingId)) as Terrasoft.Core.DB.Update;\n\tupdate.Execute();\n}\n\n// ===== Step 1: Hire & create record =====\nGuid recordId = Get<Guid>(\"StartSignal1.RecordId\");\nvar e = Load(\"EmpoOnboarding\", recordId);\nif (e == null) {\n\treturn true;\n}\nbool changed = false;\nif (e.GetTypedColumnValue<Guid>(\"EmpoStatusId\") == Guid.Empty) {\n\tchanged |= SetLookup(e, \"EmpoStatus\", LookupId(\"EmpoOnbStatus\", \"Not started\"));\n}\nif (e.GetTypedColumnValue<Guid>(\"EmpoOfferStatusId\") == Guid.Empty) {\n\tchanged |= SetLookup(e, \"EmpoOfferStatus\", LookupId(\"EmpoOnbOfferStatus\", \"Not sent\"));\n}\nif (e.GetTypedColumnValue<Guid>(\"EmpoPhaseId\") == Guid.Empty) {\n\tchanged |= SetLookup(e, \"EmpoPhase\", LookupId(\"EmpoOnbPhase\", Phase1));\n}\nif (e.GetTypedColumnValue<Guid>(\"EmpoStageId\") == Guid.Empty) {\n\tchanged |= SetLookup(e, \"EmpoStage\", LookupId(\"EmpoOnbStage\", \"Pre-boarding\"));\n}\n// Copy candidate details from the Contact\nGuid candidateId = e.GetTypedColumnValue<Guid>(\"EmpoEmployeeId\");\nvar contact = candidateId == Guid.Empty ? null : Load(\"Contact\", candidateId);\nif (contact != null) {\n\tif (string.IsNullOrEmpty(e.GetTypedColumnValue<string>(\"EmpoName\"))) {\n\t\tchanged |= SetValue(e, \"EmpoName\", contact.GetTypedColumnValue<string>(\"Name\"));\n\t}\n\tif (string.IsNullOrEmpty(e.GetTypedColumnValue<string>(\"EmpoPersonalEmail\"))) {\n\t\tchanged |= SetValue(e, \"EmpoPersonalEmail\", contact.GetTypedColumnValue<string>(\"Email\") ?? string.Empty);\n\t}\n\tif (string.IsNullOrEmpty(e.GetTypedColumnValue<string>(\"EmpoPersonalPhone\"))) {\n\t\tchanged |= SetValue(e, \"EmpoPersonalPhone\", contact.GetTypedColumnValue<string>(\"MobilePhone\") ?? string.Empty);\n\t}\n\tif (string.IsNullOrEmpty(e.GetTypedColumnValue<string>(\"EmpoAddress\"))) {\n\t\tchanged |= SetValue(e, \"EmpoAddress\", contact.GetTypedColumnValue<string>(\"Address\") ?? string.Empty);\n\t}\n\tDateTime birth = contact.GetTypedColumnValue<DateTime>(\"BirthDate\");\n\tif (birth != DateTime.MinValue && e.GetTypedColumnValue<DateTime>(\"EmpoBirthDate\") == DateTime.MinValue) {\n\t\tchanged |= SetValue(e, \"EmpoBirthDate\", birth);\n\t}\n}\nint tasksCreated = 0;\nif (!e.GetTypedColumnValue<bool>(\"EmpoTasksGenerated\")) {\n\t// Create IT / HR / Admin tasks from the active task templates\n\tDateTime startDate = e.GetTypedColumnValue<DateTime>(\"EmpoStartDate\");\n\tGuid hiringManager = e.GetTypedColumnValue<Guid>(\"EmpoHiringManagerId\");\n\tGuid hrPartner = e.GetTypedColumnValue<Guid>(\"EmpoHrPartnerId\");\n\tGuid notStarted = LookupId(\"EmpoOnbTaskStatus\", \"Not started\");\n\tGuid lineDept = LookupId(\"EmpoOnbDepartment\", \"Line Manager / Team\");\n\tvar esq = new Terrasoft.Core.Entities.EntitySchemaQuery(uc.EntitySchemaManager, \"EmpoOnbTaskTemplate\");\n\tesq.PrimaryQueryColumn.IsAlwaysSelect = true;\n\tesq.AddAllSchemaColumns();\n\tesq.Filters.Add(esq.CreateFilterWithParameters(Terrasoft.Core.Entities.FilterComparisonType.Equal, \"EmpoIsActive\", true));\n\tvar taskSchema = uc.EntitySchemaManager.GetInstanceByName(\"EmpoOnbTask\");\n\tforeach (var template in System.Linq.Enumerable.OrderBy(esq.GetEntityCollection(uc), t => t.GetTypedColumnValue<int>(\"EmpoSequence\"))) {\n\t\tGuid department = template.GetTypedColumnValue<Guid>(\"EmpoDepartmentId\");\n\t\tGuid assignee = template.GetTypedColumnValue<Guid>(\"EmpoDefaultAssigneeId\");\n\t\tif (assignee == Guid.Empty) {\n\t\t\tif (department == lineDept) {\n\t\t\t\tassignee = hiringManager;\n\t\t\t} else {\n\t\t\t\tassignee = hrPartner != Guid.Empty ? hrPartner : hiringManager;\n\t\t\t}\n\t\t}\n\t\tvar task = taskSchema.CreateEntity(uc);\n\t\ttask.SetDefColumnValues();\n\t\ttask.SetColumnValue(\"Id\", Guid.NewGuid());\n\t\ttask.SetColumnValue(\"EmpoName\", template.GetTypedColumnValue<string>(\"EmpoName\"));\n\t\ttask.SetColumnValue(\"EmpoOnboardingId\", recordId);\n\t\tforeach (string col in new[] { \"EmpoDepartment\", \"EmpoStage\", \"EmpoPriority\" }) {\n\t\t\tGuid v = template.GetTypedColumnValue<Guid>(col + \"Id\");\n\t\t\tif (v != Guid.Empty) {\n\t\t\t\ttask.SetColumnValue(col + \"Id\", v);\n\t\t\t}\n\t\t}\n\t\tGuid role = template.GetTypedColumnValue<Guid>(\"EmpoDefaultRoleId\");\n\t\tif (role != Guid.Empty) {\n\t\t\ttask.SetColumnValue(\"EmpoAssigneeRoleId\", role);\n\t\t}\n\t\tif (assignee != Guid.Empty) {\n\t\t\ttask.SetColumnValue(\"EmpoAssigneeId\", assignee);\n\t\t}\n\t\tif (notStarted != Guid.Empty) {\n\t\t\ttask.SetColumnValue(\"EmpoStatusId\", notStarted);\n\t\t}\n\t\tif (startDate != DateTime.MinValue) {\n\t\t\ttask.SetColumnValue(\"EmpoDueDate\", startDate.Date.AddDays(template.GetTypedColumnValue<int>(\"EmpoDueDayOffset\")));\n\t\t}\n\t\ttask.SetColumnValue(\"EmpoSequence\", template.GetTypedColumnValue<int>(\"EmpoSequence\"));\n\t\ttask.SetColumnValue(\"EmpoIsMandatory\", template.GetTypedColumnValue<bool>(\"EmpoIsMandatory\"));\n\t\ttask.SetColumnValue(\"EmpoDescription\", template.GetTypedColumnValue<string>(\"EmpoDescription\"));\n\t\ttask.SetColumnValue(\"EmpoTemplateId\", template.GetTypedColumnValue<Guid>(\"Id\"));\n\t\ttask.Save(false);\n\t\ttasksCreated++;\n\t}\n\t// Document checklist (one \"Requested\" row per document type)\n\tif (CountBy(\"EmpoOnbDocument\", \"EmpoOnboardingId\", recordId) == 0) {\n\t\tGuid requested = LookupId(\"EmpoOnbDocStatus\", \"Requested\");\n\t\tvar typeEsq = new Terrasoft.Core.Entities.EntitySchemaQuery(uc.EntitySchemaManager, \"EmpoOnbDocType\");\n\t\ttypeEsq.PrimaryQueryColumn.IsAlwaysSelect = true;\n\t\ttypeEsq.AddColumn(\"Name\");\n\t\tvar docSchema = uc.EntitySchemaManager.GetInstanceByName(\"EmpoOnbDocument\");\n\t\tforeach (var type in typeEsq.GetEntityCollection(uc)) {\n\t\t\tvar doc = docSchema.CreateEntity(uc);\n\t\t\tdoc.SetDefColumnValues();\n\t\t\tdoc.SetColumnValue(\"Id\", Guid.NewGuid());\n\t\t\tdoc.SetColumnValue(\"EmpoName\", type.GetTypedColumnValue<string>(\"Name\"));\n\t\t\tdoc.SetColumnValue(\"EmpoOnboardingId\", recordId);\n\t\t\tdoc.SetColumnValue(\"EmpoDocumentTypeId\", type.GetTypedColumnValue<Guid>(\"Id\"));\n\t\t\tdoc.SetColumnValue(\"EmpoStatusId\", requested);\n\t\t\tdoc.Save(false);\n\t\t}\n\t}\n\tchanged |= SetValue(e, \"EmpoTasksGenerated\", true);\n}\nif (changed) {\n\te.Save(false);\n}\nRecalc(recordId);\nNotifyTeam(e, \"New hire onboarding started: \" + tasksCreated + \" onboarding tasks and the document checklist were created.\");\nreturn true;\n",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "2c899a89-79ae-4f8d-a965-40afc93112fb",
+          "A2": "SequenceFlow1",
+          "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "CI1": "3bbc3e7a-4c98-434b-891b-d8e7ee358d74",
+          "CI2": "633cee09-67a7-4e64-88f0-1d0940f39db8",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "305;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "ee02087f-4b60-413a-8dac-a85dc21e041d",
+          "A2": "SequenceFlow2",
+          "A3": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A4": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+          "CI1": "633cee09-67a7-4e64-88f0-1d0940f39db8",
+          "CI2": "43adc285-ebb8-46f1-ad83-b9850e446e94",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "374;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "en-US",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

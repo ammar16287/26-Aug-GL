@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0554a10f-b67e-4d85-9819-8648127fda34",
+    "Name": "EmpoPage_hv92j5m",
+    "ModifiedOnUtc": "\/Date(1790162938000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Teams modal page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "369419de-4735-46ea-b862-eea56ad2e3d3",
+    "Name": "EmpoCandidates_ListPage",
+    "ModifiedOnUtc": "\/Date(1790247793000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Candidates list page",
+    "DependsOn": []
+  }
+}

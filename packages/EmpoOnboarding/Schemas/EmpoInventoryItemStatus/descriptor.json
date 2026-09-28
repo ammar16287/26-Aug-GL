@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a1a165d6-3ab2-430b-81a7-b795fa87be64",
+    "Name": "EmpoInventoryItemStatus",
+    "ModifiedOnUtc": "\/Date(1790160720000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Inventory item statuses",
+    "DependsOn": []
+  }
+}

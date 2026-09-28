@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requisitions form page" />
+			<Item Name="LocalizableStrings.ExpansionPanel_3jdxjwp_title.Value" Value="Job advertisements" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_jby4x4c_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_twhf09s_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_8y5hq61_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_aj5nmoe_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_4ctabi0_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_5od242d_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.TabContainer_2opn9wa_caption.Value" Value="Advertisements" />
+			<Item Name="LocalizableStrings.TabContainer_d343zn6_caption.Value" Value="HR approval" />
+			<Item Name="LocalizableStrings.TabContainer_iujiwqx_caption.Value" Value="Hiring" />
+			<Item Name="LocalizableStrings.addRecord_1i2oyub_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_36j2asq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_3evwdou_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_3g30bs4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_46022b0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_4u49t20_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9zt9k7y_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ejqy47e_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_enb3tmh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_l73ufxv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_qf1dhx4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_r9ygtwb_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4d5d7bf-e276-4a13-b014-c7339fb53a18",
+    "Name": "EmpoApplications_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1790247203000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Applications mobile list page",
+    "DependsOn": []
+  }
+}

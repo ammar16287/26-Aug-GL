@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "35bd98d1-e532-45ef-93f1-01ecf79bcef4",
+    "Name": "EmpoAdChannel",
+    "ModifiedOnUtc": "\/Date(1790236389000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Advertisement channels",
+    "DependsOn": []
+  }
+}

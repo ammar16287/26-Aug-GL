@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5bb966b2-d9ff-467f-9e68-8c9caefa2ceb",
+    "Name": "EmpoOnbTaskSectionMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1789988216000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Onboarding Tasks (Mobile page settings)",
+    "DependsOn": []
+  }
+}

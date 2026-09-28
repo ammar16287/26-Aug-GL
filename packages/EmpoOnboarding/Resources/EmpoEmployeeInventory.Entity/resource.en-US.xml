@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Employee inventory" />
+			<Item Name="Columns.EmpoAssignedDate.Caption" Value="Assigned date" />
+			<Item Name="Columns.EmpoItemStatus.Caption" Value="Status" />
+			<Item Name="Columns.EmpoItemType.Caption" Value="Item type" />
+			<Item Name="Columns.EmpoName.Caption" Value="Item name" />
+			<Item Name="Columns.EmpoOnboarding.Caption" Value="Employee onboarding" />
+			<Item Name="Columns.EmpoSerialNumber.Caption" Value="Serial number" />
+			<Item Name="Description" Value="Items (laptop, phone, access card, etc.) assigned to the employee" />
+		</Items>
+	</Group>
+</Resources>

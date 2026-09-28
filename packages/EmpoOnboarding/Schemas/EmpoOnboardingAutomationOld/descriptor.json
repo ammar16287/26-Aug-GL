@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "88c5663c-9049-4550-bb7a-cefd6260fd81",
+    "Name": "EmpoOnboardingAutomationOld",
+    "ModifiedOnUtc": "\/Date(1790144804000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Onboarding automation",
+    "DependsOn": []
+  }
+}

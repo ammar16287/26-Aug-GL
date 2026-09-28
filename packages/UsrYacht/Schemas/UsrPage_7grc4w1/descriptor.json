@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "f190b694-5c2f-40fc-8162-d28198321c53",
     "Name": "UsrPage_7grc4w1",
-    "ModifiedOnUtc": "\/Date(1787643001000)\/",
+    "ModifiedOnUtc": "\/Date(1787643002000)\/",
     "Parent": {
       "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
       "Name": "BaseMiniPageTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "New modal page"
+    "Caption": "New modal page",
+    "DependsOn": []
   }
 }

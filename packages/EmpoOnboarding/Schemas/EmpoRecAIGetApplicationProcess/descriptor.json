@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "52f70586-d1c2-4611-8d77-816684b64555",
+    "Name": "EmpoRecAIGetApplicationProcess",
+    "ModifiedOnUtc": "\/Date(1790251972000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Recruitment AI - Get application details",
+    "DependsOn": []
+  }
+}

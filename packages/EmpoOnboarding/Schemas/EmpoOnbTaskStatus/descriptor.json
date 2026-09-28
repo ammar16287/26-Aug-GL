@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a07542a1-f9ab-44ac-82db-b03208f02830",
+    "Name": "EmpoOnbTaskStatus",
+    "ModifiedOnUtc": "\/Date(1790149594000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding Task Status",
+    "DependsOn": []
+  }
+}

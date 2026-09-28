@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Onboarding bank / payroll info" />
+			<Item Name="Columns.EmpoAccountNumber.Caption" Value="Account number" />
+			<Item Name="Columns.EmpoAccountTitle.Caption" Value="Account title" />
+			<Item Name="Columns.EmpoBranch.Caption" Value="Branch" />
+			<Item Name="Columns.EmpoIban.Caption" Value="IBAN" />
+			<Item Name="Columns.EmpoIsPrimary.Caption" Value="Primary account" />
+			<Item Name="Columns.EmpoName.Caption" Value="Bank name" />
+			<Item Name="Columns.EmpoOnboarding.Caption" Value="Onboarding" />
+			<Item Name="Columns.EmpoTaxInformation.Caption" Value="Tax information" />
+			<Item Name="Columns.EmpoTaxNumber.Caption" Value="Tax number (NTN)" />
+		</Items>
+	</Group>
+</Resources>

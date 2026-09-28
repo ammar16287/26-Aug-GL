@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.12507024-c900-444c-9be3-cc2147dc9a4f.Caption" Value="ChildRule-636f5794-79d9-4d56-9845-d498db0ab3d6-ClearValue" />
+			<Item Name="AddonConfig.Rules.636f5794-79d9-4d56-9845-d498db0ab3d6.Caption" Value="Filter teams by company" />
+			<Item Name="AddonConfig.Rules.ee1bcb3f-32af-402b-89db-952c168858ed.Caption" Value="ChildRule-636f5794-79d9-4d56-9845-d498db0ab3d6-PopulateValue" />
+			<Item Name="Caption" Value="Employee Onboarding Hub (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

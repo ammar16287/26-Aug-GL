@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7e4e5784-b5bd-4182-95e5-48c6dce1e934",
+    "Name": "EmpoPage_6mucb7x",
+    "ModifiedOnUtc": "\/Date(1790236438000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Job advertisements modal page",
+    "DependsOn": []
+  }
+}

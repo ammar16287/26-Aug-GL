@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "50e3551b-05d1-44e7-9a2e-08284ec78ee7",
+    "Name": "EmpoRecApplicationUpdateProcess",
+    "ModifiedOnUtc": "\/Date(1790330603000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Recruitment - Application stage automation (prescreening, checks, offer & hire)",
+    "DependsOn": []
+  }
+}

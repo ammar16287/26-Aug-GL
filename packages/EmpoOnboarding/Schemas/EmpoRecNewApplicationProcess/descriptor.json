@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8eadd730-4978-42bb-b119-c839e3e1f2ea",
+    "Name": "EmpoRecNewApplicationProcess",
+    "ModifiedOnUtc": "\/Date(1790250098000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Recruitment - New application (inquiry processing)",
+    "DependsOn": []
+  }
+}

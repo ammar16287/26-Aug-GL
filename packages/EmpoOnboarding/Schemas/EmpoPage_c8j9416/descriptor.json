@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+    "Name": "EmpoPage_c8j9416",
+    "ModifiedOnUtc": "\/Date(1790160757000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Employee inventory modal page",
+    "DependsOn": []
+  }
+}

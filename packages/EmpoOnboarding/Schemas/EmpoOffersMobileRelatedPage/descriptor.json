@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf8588be-ac35-4b85-b937-66cce07af4c5",
+    "Name": "EmpoOffersMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790320250000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Offers (Mobile page settings)",
+    "DependsOn": []
+  }
+}

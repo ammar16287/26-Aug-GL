@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "84f15f07-8246-4977-9eed-8d94cdfe420c",
+    "Name": "EmpoBgCheck",
+    "ModifiedOnUtc": "\/Date(1790319528000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Background checks",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b9d48608-76d2-476c-be3a-8e7ee2359094",
+    "Name": "EmpoApplications_ListPage",
+    "ModifiedOnUtc": "\/Date(1790247775000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Applications list page",
+    "DependsOn": []
+  }
+}

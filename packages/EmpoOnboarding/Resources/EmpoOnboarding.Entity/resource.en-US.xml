@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Employee Onboarding Hub" />
+			<Item Name="Columns.EmpoAccountCreated.Caption" Value="Employee account created" />
+			<Item Name="Columns.EmpoAddress.Caption" Value="Address" />
+			<Item Name="Columns.EmpoBirthDate.Caption" Value="Date of birth" />
+			<Item Name="Columns.EmpoBuddy.Caption" Value="Onboarding buddy" />
+			<Item Name="Columns.EmpoCnic.Caption" Value="National ID / CNIC" />
+			<Item Name="Columns.EmpoCompany.Caption" Value="Company" />
+			<Item Name="Columns.EmpoCompletedOn.Caption" Value="Completed on" />
+			<Item Name="Columns.EmpoDepartment.Caption" Value="Department" />
+			<Item Name="Columns.EmpoDocsVerified.Caption" Value="All documents verified" />
+			<Item Name="Columns.EmpoEmergencyName.Caption" Value="Emergency contact name" />
+			<Item Name="Columns.EmpoEmergencyPhone.Caption" Value="Emergency contact phone" />
+			<Item Name="Columns.EmpoEmergencyRelation.Caption" Value="Relationship" />
+			<Item Name="Columns.EmpoEmployee.Caption" Value="Employee" />
+			<Item Name="Columns.EmpoEmployeeActive.Caption" Value="Employee active" />
+			<Item Name="Columns.EmpoEquipmentReady.Caption" Value="Laptop / equipment prepared" />
+			<Item Name="Columns.EmpoHiringManager.Caption" Value="Hiring manager" />
+			<Item Name="Columns.EmpoHrIntroduced.Caption" Value="HR &amp; manager introduced" />
+			<Item Name="Columns.EmpoHrPartner.Caption" Value="HR partner" />
+			<Item Name="Columns.EmpoJobTitle.Caption" Value="Job title" />
+			<Item Name="Columns.EmpoLineManager.Caption" Value="Manager" />
+			<Item Name="Columns.EmpoLocation.Caption" Value="Location" />
+			<Item Name="Columns.EmpoManager.Caption" Value="Manager" />
+			<Item Name="Columns.EmpoName.Caption" Value="Name" />
+			<Item Name="Columns.EmpoNotes.Caption" Value="Notes" />
+			<Item Name="Columns.EmpoOfferAcceptedOn.Caption" Value="Offer accepted on" />
+			<Item Name="Columns.EmpoOfferDate.Caption" Value="Offer date" />
+			<Item Name="Columns.EmpoOfferNotes.Caption" Value="Offer notes" />
+			<Item Name="Columns.EmpoOfferSentOn.Caption" Value="Offer sent on" />
+			<Item Name="Columns.EmpoOfferStatus.Caption" Value="Offer status" />
+			<Item Name="Columns.EmpoOfferedSalary.Caption" Value="Offered salary" />
+			<Item Name="Columns.EmpoPersonalEmail.Caption" Value="Personal email" />
+			<Item Name="Columns.EmpoPersonalPhone.Caption" Value="Personal phone" />
+			<Item Name="Columns.EmpoPhase.Caption" Value="Onboarding phase" />
+			<Item Name="Columns.EmpoPhoto.Caption" Value="Photo" />
+			<Item Name="Columns.EmpoPoliciesExplained.Caption" Value="Policies &amp; culture explained" />
+			<Item Name="Columns.EmpoProgressPercent.Caption" Value="Progress, %" />
+			<Item Name="Columns.EmpoRole.Caption" Value="Role" />
+			<Item Name="Columns.EmpoScheduleReady.Caption" Value="Onboarding schedule prepared" />
+			<Item Name="Columns.EmpoStage.Caption" Value="Stage" />
+			<Item Name="Columns.EmpoStartDate.Caption" Value="Start date" />
+			<Item Name="Columns.EmpoStatus.Caption" Value="Status" />
+			<Item Name="Columns.EmpoSystemAccess.Caption" Value="Email &amp; system access created" />
+			<Item Name="Columns.EmpoTaskCompletedCount.Caption" Value="Completed tasks" />
+			<Item Name="Columns.EmpoTaskOverdueCount.Caption" Value="Overdue tasks" />
+			<Item Name="Columns.EmpoTaskTotalCount.Caption" Value="Total tasks" />
+			<Item Name="Columns.EmpoTasksGenerated.Caption" Value="Tasks generated" />
+			<Item Name="Columns.EmpoTeam.Caption" Value="Team" />
+			<Item Name="Columns.EmpoTeamIntroduced.Caption" Value="Team members introduced" />
+			<Item Name="Columns.EmpoWelcomed.Caption" Value="Employee welcomed" />
+			<Item Name="Columns.EmpoWorkEmail.Caption" Value="Work email" />
+			<Item Name="Columns.EmpoWorkPhone.Caption" Value="Work phone" />
+			<Item Name="Columns.EmpoWorkspaceAssigned.Caption" Value="Workspace assigned" />
+		</Items>
+	</Group>
+</Resources>

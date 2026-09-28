@@ -1,0 +1,10 @@
+= MetaData.Schema.UId "96d2bcd5-ef1e-4d04-8bac-b6050ee2f23f"
+= MetaData.Schema.A2 "EmpoOnboarding_MobileFormPage"
+= MetaData.Schema.A5 "d484d861-d8e5-4a3f-84ad-1d9256189431"
+~ MetaData.Schema.B2 ["d3786530-3264-4661-8294-dc63c9123ded","606cf933-7136-407c-924f-88ce377208a5","38c785aa-8a67-4d3b-be98-302b3eabb24f","75bfcc67-9652-47b0-bdd7-f5221a92e738"]
+= MetaData.Schema.B6 "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a"
+= MetaData.Schema.HD1 "019c694a-1a3b-4812-b2e5-219b326061ae"
+= MetaData.Schema.HD6 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

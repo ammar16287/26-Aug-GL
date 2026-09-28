@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "73cb8ff0-a67b-438f-8c57-bdda3edc5b6d",
+    "Name": "EmpoRequisitionRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790235058000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requisitions (Page settings)",
+    "DependsOn": []
+  }
+}

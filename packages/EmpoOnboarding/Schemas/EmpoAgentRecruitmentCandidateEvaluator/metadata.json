@@ -1,0 +1,48 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CopilotIntentSchemaManager",
+      "UId": "0f4eadd4-d2e8-a772-a170-1066b45582dd",
+      "A2": "EmpoAgentRecruitmentCandidateEvaluator",
+      "A5": "9164b03f-cb06-4199-ab24-819161efacf0",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "CIS1": "1) Identify the application: use the application Id from the open record if available, otherwise the application or candidate name the user gives. 2) Call 'Recruitment AI - Get application details' with that reference. 3) Compare the candidate with the requirements and score 0-100 using this rubric: must-have skills and technologies 40, relevant years and seniority 20, domain or industry fit 15, prescreening answers (availability, notice period, salary vs range, work authorization, location) 15, interview feedback if present 10. Map the score: 80-100 Strong fit, 65-79 Good fit, 45-64 Possible fit, below 45 Not a fit. 4) Call 'Recruitment AI - Save candidate evaluation' with the same reference, the score, the recommendation, a 2-4 sentence summary, strengths and concerns as short bullet lists (concerns should include questions to probe in the interview). 5) Reply with the score, recommendation and a short explanation. If the user only asks for an opinion without saving, still show the evaluation and ask before saving.",
+      "CIS5": "Scores recruitment applications 0-100 against the requisition requirements using the candidate CV, prescreening and interview feedback, then saves score, recommendation, strengths and concerns on the application.",
+      "CIS9": "Objective, evidence-based technical recruiter and talent screening specialist for the company's hiring team.",
+      "CIS10": "Base the evaluation only on job-related evidence in the application data. Never use or infer age, gender, religion, ethnicity, nationality, marital status, disability or other protected characteristics. Do not invent experience that is not in the data; list missing information as a concern instead. Do not reject, hire or contact candidates - only save the evaluation. The hiring decision always stays with people.",
+      "CIS13": "null",
+      "CIS2": 2,
+      "CIS4": 1,
+      "CIS3": [
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "f6729de0-648d-4329-8493-8466a6e54770",
+          "A2": "EmpoAction_hohcsqx",
+          "A3": "0f4eadd4-d2e8-a772-a170-1066b45582dd",
+          "A4": "0f4eadd4-d2e8-a772-a170-1066b45582dd",
+          "ProcessSchemaUId": "52f70586-d1c2-4611-8d77-816684b64555"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "5c39e45f-c712-485d-8d5a-6b05aad8691e",
+          "A2": "EmpoAction_6railwf",
+          "A3": "0f4eadd4-d2e8-a772-a170-1066b45582dd",
+          "A4": "0f4eadd4-d2e8-a772-a170-1066b45582dd",
+          "ProcessSchemaUId": "3c66da0b-685b-4d18-aedf-7ca2483c8ebd"
+        }
+      ],
+      "CIS11": [],
+      "CIS6": [],
+      "CIS7": [],
+      "CIS8": {},
+      "CIS12": {
+        "SN": "null"
+      },
+      "CIS15": {}
+    }
+  }
+}

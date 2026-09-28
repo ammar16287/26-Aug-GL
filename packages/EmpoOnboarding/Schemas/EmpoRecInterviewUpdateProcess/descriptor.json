@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3892479a-ada4-455c-85a5-10dd7c90b270",
+    "Name": "EmpoRecInterviewUpdateProcess",
+    "ModifiedOnUtc": "\/Date(1790593749000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Recruitment - Interview calendar sync",
+    "DependsOn": []
+  }
+}

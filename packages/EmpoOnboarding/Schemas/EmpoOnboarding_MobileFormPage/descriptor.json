@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "96d2bcd5-ef1e-4d04-8bac-b6050ee2f23f",
+    "Name": "EmpoOnboarding_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1789974526000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Employee Onboarding Hub mobile form page",
+    "DependsOn": []
+  }
+}

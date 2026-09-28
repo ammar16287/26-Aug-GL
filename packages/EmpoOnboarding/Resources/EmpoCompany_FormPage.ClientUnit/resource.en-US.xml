@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Companies form page" />
+			<Item Name="LocalizableStrings.ExpansionPanel_t7tvki3_title.Value" Value="Teams" />
+			<Item Name="LocalizableStrings.ExpansionPanel_up6t181_title.Value" Value="Employees" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_9wfr942_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_mshbg7d_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_1txfsg6_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_fz1rjbw_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_4a98p18_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_x81j38y_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_sa1t8we_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_zjm5mwb_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_nair3h5_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_y4fshhj_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_a93ajag_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_zm8dcac_caption.Value" Value="Actions" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,28 @@
+﻿{
+  "Descriptor": {
+    "UId": "e2b04023-bccf-4ed3-8c4f-96d91e4582e0",
+    "Name": "EmpoOnbTaskPriority",
+    "ModifiedOnUtc": "\/Date(1789983828000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "98d21588-264e-4b92-88fd-b0e69accd33e",
+      "Name": "EmpoOnbTaskPriority"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

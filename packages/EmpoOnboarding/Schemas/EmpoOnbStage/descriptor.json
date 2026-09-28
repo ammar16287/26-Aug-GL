@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b70dd964-07fe-4a8f-8278-1f127a56caed",
+    "Name": "EmpoOnbStage",
+    "ModifiedOnUtc": "\/Date(1790149627000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding Stage",
+    "DependsOn": []
+  }
+}

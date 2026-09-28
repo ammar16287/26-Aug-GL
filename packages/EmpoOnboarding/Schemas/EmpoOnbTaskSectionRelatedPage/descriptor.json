@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "91c0fe58-ca2b-446f-933a-e39e66b75cba",
+    "Name": "EmpoOnbTaskSectionRelatedPage",
+    "ModifiedOnUtc": "\/Date(1789988216000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Onboarding Tasks (Page settings)",
+    "DependsOn": []
+  }
+}

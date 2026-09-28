@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b93dadb-15b4-4eec-aa12-42e8f6c88eea",
+    "Name": "EmpoInterviews_Detail",
+    "ModifiedOnUtc": "\/Date(1790247323000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Interviews detail",
+    "DependsOn": []
+  }
+}

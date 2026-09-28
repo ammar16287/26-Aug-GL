@@ -1,0 +1,44 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoAdChannel/EmpoAdChannel.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoAdChannel/EmpoAdChannel.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoAdvertisementStatus/EmpoAdvertisementStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoAdvertisementStatus/EmpoAdvertisementStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoAIRecommendation/EmpoAIRecommendation.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoAIRecommendation/EmpoAIRecommendation.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoApplication/EmpoApplication.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoApplication/EmpoApplication.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoApplicationStage/EmpoApplicationStage.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoApplicationStage/EmpoApplicationStage.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoBgCheck/EmpoBgCheck.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoBgCheck/EmpoBgCheck.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoBgCheckStatus/EmpoBgCheckStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoBgCheckStatus/EmpoBgCheckStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoBgCheckType/EmpoBgCheckType.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoBgCheckType/EmpoBgCheckType.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoCandidate/EmpoCandidate.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoCandidate/EmpoCandidate.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoCandidateSource/EmpoCandidateSource.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoCandidateSource/EmpoCandidateSource.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoCompany/EmpoCompany.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoCompany/EmpoCompany.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoEmployeeInventory/EmpoEmployeeInventory.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoEmployeeInventory/EmpoEmployeeInventory.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoEmploymentType/EmpoEmploymentType.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoEmploymentType/EmpoEmploymentType.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterview/EmpoInterview.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterview/EmpoInterview.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterviewResult/EmpoInterviewResult.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterviewResult/EmpoInterviewResult.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterviewStatus/EmpoInterviewStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterviewStatus/EmpoInterviewStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterviewType/EmpoInterviewType.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoInterviewType/EmpoInterviewType.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoInventoryItemStatus/EmpoInventoryItemStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoInventoryItemStatus/EmpoInventoryItemStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoInventoryItemType/EmpoInventoryItemType.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoInventoryItemType/EmpoInventoryItemType.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoJobAdvertisement/EmpoJobAdvertisement.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoJobAdvertisement/EmpoJobAdvertisement.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOffer/EmpoOffer.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOffer/EmpoOffer.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbBankInfo/EmpoOnbBankInfo.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbBankInfo/EmpoOnbBankInfo.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDepartment/EmpoOnbDepartment.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDepartment/EmpoOnbDepartment.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDocStatus/EmpoOnbDocStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDocStatus/EmpoOnbDocStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDocType/EmpoOnbDocType.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDocType/EmpoOnbDocType.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDocument/EmpoOnbDocument.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbDocument/EmpoOnbDocument.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnboarding/EmpoOnboarding.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnboarding/EmpoOnboarding.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbOfferStatus/EmpoOnbOfferStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbOfferStatus/EmpoOnbOfferStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbPhase/EmpoOnbPhase.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbPhase/EmpoOnbPhase.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbStage/EmpoOnbStage.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbStage/EmpoOnbStage.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbStatus/EmpoOnbStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbStatus/EmpoOnbStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTask/EmpoOnbTask.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTask/EmpoOnbTask.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTaskPriority/EmpoOnbTaskPriority.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTaskPriority/EmpoOnbTaskPriority.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTaskStatus/EmpoOnbTaskStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTaskStatus/EmpoOnbTaskStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTaskTemplate/EmpoOnbTaskTemplate.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoOnbTaskTemplate/EmpoOnbTaskTemplate.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoPrescreenResult/EmpoPrescreenResult.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoPrescreenResult/EmpoPrescreenResult.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoRequisition/EmpoRequisition.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoRequisition/EmpoRequisition.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoRequisitionReason/EmpoRequisitionReason.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoRequisitionReason/EmpoRequisitionReason.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoRequisitionStatus/EmpoRequisitionStatus.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoRequisitionStatus/EmpoRequisitionStatus.cs')" />
+		<Compile Include="$(PkgPath)/EmpoOnboarding/Schemas/EmpoTeams/EmpoTeams.cs" Condition="Exists('$(PkgPath)/EmpoOnboarding/Schemas/EmpoTeams/EmpoTeams.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "50ecdc69-15b0-4a37-8d76-1379e4090cbf",
+    "Name": "EmpoOnbDepartment",
+    "ModifiedOnUtc": "\/Date(1790149710000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding Department",
+    "DependsOn": []
+  }
+}

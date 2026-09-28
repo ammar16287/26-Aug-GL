@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "475a0aed-57f4-40b3-b7cf-fe3498f31810",
+    "Name": "EmpoOnbNewHireProcess",
+    "ModifiedOnUtc": "\/Date(1790145805000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Employee Onboarding - New hire setup",
+    "DependsOn": []
+  }
+}

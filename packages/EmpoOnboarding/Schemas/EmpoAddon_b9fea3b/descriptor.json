@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "11f372cf-5453-4618-91c4-d71f40174a91",
+    "Name": "EmpoAddon_b9fea3b",
+    "ModifiedOnUtc": "\/Date(1790236454000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Job advertisements modal page (AppearanceSettings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eb8d0b8b-0b00-4601-8f00-afd1ec6cd80b",
+    "Name": "EmpoRequisition_ListPage",
+    "ModifiedOnUtc": "\/Date(1790235058000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requisitions list page",
+    "DependsOn": []
+  }
+}

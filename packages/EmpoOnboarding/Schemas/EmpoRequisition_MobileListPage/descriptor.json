@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8060ff81-727e-4c19-b15f-1f6e8dfed0c3",
+    "Name": "EmpoRequisition_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1790235058000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requisitions mobile list page",
+    "DependsOn": []
+  }
+}

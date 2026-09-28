@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "16d4d80d-1cc4-4a23-b705-15e9724bd5e9",
+    "Name": "EmpoCandidates_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1790247060000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Candidates mobile list page",
+    "DependsOn": []
+  }
+}

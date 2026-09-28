@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "da5f4ffc-738e-4cfd-a16b-6855878bbf98",
+    "Name": "EmpoOnbTaskSection_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1789988216000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Onboarding Tasks mobile list page",
+    "DependsOn": []
+  }
+}

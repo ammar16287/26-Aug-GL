@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Interviews form page" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Details &amp; feedback" />
+		</Items>
+	</Group>
+</Resources>

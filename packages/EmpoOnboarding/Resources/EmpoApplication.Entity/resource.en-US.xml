@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Applications" />
+			<Item Name="Columns.EmpoAIConcerns.Caption" Value="AI concerns" />
+			<Item Name="Columns.EmpoAIEvaluatedOn.Caption" Value="AI evaluated on" />
+			<Item Name="Columns.EmpoAIRecommendation.Caption" Value="AI recommendation" />
+			<Item Name="Columns.EmpoAIScore.Caption" Value="AI match score" />
+			<Item Name="Columns.EmpoAIStrengths.Caption" Value="AI strengths" />
+			<Item Name="Columns.EmpoAISummary.Caption" Value="AI summary" />
+			<Item Name="Columns.EmpoAcknowledged.Caption" Value="Acknowledgement sent" />
+			<Item Name="Columns.EmpoAvailableFrom.Caption" Value="Available from" />
+			<Item Name="Columns.EmpoBgCheckAssignedTo.Caption" Value="Background check assigned to" />
+			<Item Name="Columns.EmpoBgCheckCompletedOn.Caption" Value="Background check completed on" />
+			<Item Name="Columns.EmpoBgCheckDueDate.Caption" Value="Background check due date" />
+			<Item Name="Columns.EmpoBgCheckProvider.Caption" Value="Background check provider" />
+			<Item Name="Columns.EmpoBgCheckResult.Caption" Value="Background check findings" />
+			<Item Name="Columns.EmpoBgCheckStatus.Caption" Value="Background check status" />
+			<Item Name="Columns.EmpoBgCriminalRecordCleared.Caption" Value="Criminal record cleared" />
+			<Item Name="Columns.EmpoBgEducationVerified.Caption" Value="Education verified" />
+			<Item Name="Columns.EmpoBgEmploymentVerified.Caption" Value="Employment history verified" />
+			<Item Name="Columns.EmpoBgIdentityVerified.Caption" Value="Identity verified" />
+			<Item Name="Columns.EmpoBgReferencesChecked.Caption" Value="References checked" />
+			<Item Name="Columns.EmpoCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.EmpoCompany.Caption" Value="Company" />
+			<Item Name="Columns.EmpoExpectedSalary.Caption" Value="Expected salary" />
+			<Item Name="Columns.EmpoInquiryDate.Caption" Value="Received on" />
+			<Item Name="Columns.EmpoInquiryMessage.Caption" Value="Inquiry / cover letter" />
+			<Item Name="Columns.EmpoJobAdvertisement.Caption" Value="Job advertisement" />
+			<Item Name="Columns.EmpoMeetsMinRequirements.Caption" Value="Meets minimum requirements" />
+			<Item Name="Columns.EmpoName.Caption" Value="Application" />
+			<Item Name="Columns.EmpoNoticePeriodDays.Caption" Value="Notice period (days)" />
+			<Item Name="Columns.EmpoOfferApprovedBy.Caption" Value="Offer approved by" />
+			<Item Name="Columns.EmpoOfferDeclineReason.Caption" Value="Offer decline reason" />
+			<Item Name="Columns.EmpoOfferJobTitle.Caption" Value="Offered job title" />
+			<Item Name="Columns.EmpoOfferLetter.Caption" Value="Offer letter" />
+			<Item Name="Columns.EmpoOfferNotes.Caption" Value="Offer notes" />
+			<Item Name="Columns.EmpoOfferRespondedOn.Caption" Value="Offer responded on" />
+			<Item Name="Columns.EmpoOfferResponseDue.Caption" Value="Offer response due" />
+			<Item Name="Columns.EmpoOfferSentOn.Caption" Value="Offer sent on" />
+			<Item Name="Columns.EmpoOfferStartDate.Caption" Value="Offer start date" />
+			<Item Name="Columns.EmpoOfferStatus.Caption" Value="Offer status" />
+			<Item Name="Columns.EmpoOfferedSalary.Caption" Value="Offered salary" />
+			<Item Name="Columns.EmpoOnboarding.Caption" Value="Onboarding record" />
+			<Item Name="Columns.EmpoPrescreenDate.Caption" Value="Prescreened on" />
+			<Item Name="Columns.EmpoPrescreenNotes.Caption" Value="Prescreening notes" />
+			<Item Name="Columns.EmpoPrescreenResult.Caption" Value="Prescreening result" />
+			<Item Name="Columns.EmpoPrescreenedBy.Caption" Value="Prescreened by" />
+			<Item Name="Columns.EmpoRecruiter.Caption" Value="Recruiter" />
+			<Item Name="Columns.EmpoRejectionReason.Caption" Value="Rejection reason" />
+			<Item Name="Columns.EmpoRequisition.Caption" Value="Requisition" />
+			<Item Name="Columns.EmpoSource.Caption" Value="Source" />
+			<Item Name="Columns.EmpoStage.Caption" Value="Stage" />
+			<Item Name="Columns.EmpoWillingToRelocate.Caption" Value="Willing to relocate" />
+			<Item Name="Columns.EmpoWorkAuthorized.Caption" Value="Authorized to work" />
+		</Items>
+	</Group>
+</Resources>

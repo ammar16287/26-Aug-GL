@@ -1,0 +1,33 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "4ee0cbdb-6a3e-4857-9129-0f192592e34e",
+      "A2": "EmpoInterviewsRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "0.0.0.0",
+      "AD1": "7c19d06a-597d-4c35-915e-884e2344575e",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "919d9a33-6801-41eb-8707-dac49fed9910",
+      "PageSchemaUId": "ecb3de64-dc23-4646-8817-b031787fa588",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": null,
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

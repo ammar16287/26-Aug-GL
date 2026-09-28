@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "04f7482d-8a6d-4035-a4af-eaa40466da4c",
+    "Name": "EmpoTeamsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790163153000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Teams (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "04f7482d-8a6d-4035-a4af-eaa40466da4c",
+      "A2": "EmpoTeamsRelatedPage",
+      "A5": "1f95619a-0339-420a-b70a-55339370dbfb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "AD1": "546b0771-5ffb-4671-88bf-2b59d4112bcb",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "1218fcfb-0032-41c9-9935-20c3e81bd9f9",
+      "PageSchemaUId": "0554a10f-b67e-4d85-9819-8648127fda34",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

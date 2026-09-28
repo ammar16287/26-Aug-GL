@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "86a3eeba-6c34-4124-aff8-d03e56d0aa27",
+      "A2": "EmpoBackgroundChecksRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "84f15f07-8246-4977-9eed-8d94cdfe420c",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "111ee992-350b-4f28-ba70-03e8f229887b",
+            "PageSchemaUId": "656d2795-91be-44ff-ad8b-64680637c978",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

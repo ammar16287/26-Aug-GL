@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "759fb9a1-dcd7-4380-a26b-d7b8c2b903b7",
+    "Name": "EmpoOnboardingMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1789974526000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Employee Onboarding Hub (Mobile page settings)",
+    "DependsOn": []
+  }
+}

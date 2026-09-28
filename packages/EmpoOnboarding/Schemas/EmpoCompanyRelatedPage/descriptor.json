@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ea5dd3fa-1799-4848-8f58-80db4b932da2",
+    "Name": "EmpoCompanyRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790161866000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Companies (Page settings)",
+    "DependsOn": []
+  }
+}

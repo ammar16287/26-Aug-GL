@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Candidates form page" />
+			<Item Name="LocalizableStrings.Detail_Applications_Add_caption.Value" Value="New application" />
+			<Item Name="LocalizableStrings.Detail_Applications_Refresh_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Detail_Interviews_Add_caption.Value" Value="Schedule interview" />
+			<Item Name="LocalizableStrings.Detail_Interviews_Refresh_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Profile" />
+			<Item Name="LocalizableStrings.Tab_Applications_caption.Value" Value="Applications" />
+			<Item Name="LocalizableStrings.Tab_Interviews_caption.Value" Value="Interviews" />
+		</Items>
+	</Group>
+</Resources>

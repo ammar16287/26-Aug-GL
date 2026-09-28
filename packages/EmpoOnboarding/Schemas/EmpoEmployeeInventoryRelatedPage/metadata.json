@@ -1,0 +1,35 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "581f605c-ee9b-4934-80b3-2c98ea94440d",
+      "A2": "EmpoEmployeeInventoryRelatedPage",
+      "A5": "1f95619a-0339-420a-b70a-55339370dbfb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "AD1": "52ef7f55-e80e-44d8-a036-844dec85be11",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "6d353d99-edac-4cf1-b2ba-317716c76d6a",
+      "PageSchemaUId": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "581f605c-ee9b-4934-80b3-2c98ea94440d",
+    "Name": "EmpoEmployeeInventoryRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790160855000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Employee inventory (Page settings)",
+    "DependsOn": []
+  }
+}

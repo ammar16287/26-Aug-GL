@@ -4,6 +4,7 @@
     "Name": "UsrYachtService",
     "ModifiedOnUtc": "\/Date(1787903234000)\/",
     "ManagerName": "SourceCodeSchemaManager",
-    "Caption": "Yacht Service"
+    "Caption": "Yacht Service",
+    "DependsOn": []
   }
 }

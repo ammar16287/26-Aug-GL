@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Onboarding Task Template" />
+			<Item Name="Columns.EmpoDefaultAssignee.Caption" Value="Default assignee" />
+			<Item Name="Columns.EmpoDefaultRole.Caption" Value="Default role" />
+			<Item Name="Columns.EmpoDepartment.Caption" Value="Department" />
+			<Item Name="Columns.EmpoDescription.Caption" Value="Instructions" />
+			<Item Name="Columns.EmpoDueDayOffset.Caption" Value="Due day offset" />
+			<Item Name="Columns.EmpoIsActive.Caption" Value="Active" />
+			<Item Name="Columns.EmpoIsMandatory.Caption" Value="Mandatory" />
+			<Item Name="Columns.EmpoName.Caption" Value="Task name" />
+			<Item Name="Columns.EmpoPriority.Caption" Value="Priority" />
+			<Item Name="Columns.EmpoSequence.Caption" Value="Order" />
+			<Item Name="Columns.EmpoStage.Caption" Value="Stage" />
+		</Items>
+	</Group>
+</Resources>

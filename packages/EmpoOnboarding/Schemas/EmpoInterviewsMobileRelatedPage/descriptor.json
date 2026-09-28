@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc6ce57b-b984-4394-9d84-51678153efd8",
+    "Name": "EmpoInterviewsMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790247323000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Interviews (Mobile page settings)",
+    "DependsOn": []
+  }
+}

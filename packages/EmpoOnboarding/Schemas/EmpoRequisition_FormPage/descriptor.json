@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bab0f5f7-45a7-41a2-8f07-547e6b54b66a",
+    "Name": "EmpoRequisition_FormPage",
+    "ModifiedOnUtc": "\/Date(1790245622000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requisitions form page",
+    "DependsOn": []
+  }
+}

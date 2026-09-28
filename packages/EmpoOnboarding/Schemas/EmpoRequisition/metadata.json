@@ -1,0 +1,335 @@
+= MetaData.Schema.UId "0c9e095e-f31c-4849-9b5c-851e1b192cc3"
+= MetaData.Schema.A2 "EmpoRequisition"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "f36bc89e-ade8-41fd-8964-6eae47051ba3"
+= MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
+= MetaData.Schema.EG1.A2 "EmpoRequisitionEventsProcess"
+= MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "fdfe9e03-df1d-4c51-860b-1d9d5d266296"
++ MetaData.Schema.D2 {
+  "UId": "fdfe9e03-df1d-4c51-860b-1d9d5d266296",
+  "A2": "EmpoName",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "345392d2-f5e1-70dd-8178-24f4e652c75d",
+  "A2": "EmpoRequestedBy",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoRequestedById",
+  "E18": "EmpoRequestedByName"
+}
++ MetaData.Schema.D2 {
+  "UId": "07c50dcc-99d2-364f-d582-39a29cc3541e",
+  "A2": "EmpoCompany",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2dc57a02-c4a3-4fe5-905e-befbf6db8c6b",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoCompanyId",
+  "E18": "EmpoCompanyEmpoName"
+}
++ MetaData.Schema.D2 {
+  "UId": "ea144035-c6f4-3ea1-38d6-45ffd06509d6",
+  "A2": "EmpoStatus",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "de67f3fb-2064-4db2-beab-21da19e62b5b",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoStatusId",
+  "E18": "EmpoStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "abe93e7c-2516-aae5-721a-006d38dc49f2",
+  "A2": "EmpoRequirements",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "79bccffa-8c8b-4863-b376-a69d2244182b",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "1f97abe9-83a7-9407-02dc-71d60746b117",
+  "A2": "EmpoJobDescription",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "79bccffa-8c8b-4863-b376-a69d2244182b",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "c64ff04e-ef82-f4cd-9b3c-cad4e764e422",
+  "A2": "EmpoBudgeted",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "2fbd64a3-ee49-92ff-1a7e-02449eb99939",
+  "A2": "EmpoSalaryRange",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "97091e2e-3262-cdf3-fa65-f3d0b58f8982",
+  "A2": "EmpoTargetStartDate",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "ca9b77d1-dff3-4c4e-4d90-1686204fb809",
+  "A2": "EmpoHiringManager",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoHiringManagerId",
+  "E18": "EmpoHiringManagerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "aea7ef34-692a-6c41-8b6a-9dbda9b5f0eb",
+  "A2": "EmpoReplacingEmployee",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoReplacingEmployeeId",
+  "E18": "EmpoReplacingEmployeeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "20f49b6b-c3b2-4e44-cdc5-18ecbde904ad",
+  "A2": "EmpoReason",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "da91b4c5-a0eb-43b9-90ba-96fc6b7addce",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoReasonId",
+  "E18": "EmpoReasonName"
+}
++ MetaData.Schema.D2 {
+  "UId": "881935f0-b8f1-6a4e-a071-5b667a0f81c1",
+  "A2": "EmpoEmploymentType",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "0f7143a3-b57f-480d-bfed-2bc267edfa43",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoEmploymentTypeId",
+  "E18": "EmpoEmploymentTypeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "749e8fd4-c602-e09c-d732-c568855e4ea2",
+  "A2": "EmpoPositions",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "b626f7dd-de6a-111f-5a88-ef60622522a8",
+  "A2": "EmpoJobTitle",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "a611b227-5897-5116-5304-50d90063c961",
+  "A2": "EmpoTeam",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "546b0771-5ffb-4671-88bf-2b59d4112bcb",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoTeamId",
+  "E18": "EmpoTeamName"
+}
++ MetaData.Schema.D2 {
+  "UId": "0aa46425-06f9-39e5-dd2c-56b7bc6c1e66",
+  "A2": "EmpoDepartment",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "50ecdc69-15b0-4a37-8d76-1379e4090cbf",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoDepartmentId",
+  "E18": "EmpoDepartmentName"
+}
++ MetaData.Schema.D2 {
+  "UId": "4f61b3b4-bcd5-54ba-4c33-6ea203667d79",
+  "A2": "EmpoOnboarding",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2e8479d6-6226-47b8-9416-8d9d9c57bb9d",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoOnboardingId",
+  "E18": "EmpoOnboardingEmpoName"
+}
++ MetaData.Schema.D2 {
+  "UId": "62b2d9f0-1a4d-b64e-f0d4-2dddfc4cca8d",
+  "A2": "EmpoActualStartDate",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "4f50216c-9c43-9e0a-9379-a24797d65b1a",
+  "A2": "EmpoHiredCandidate",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoHiredCandidateId",
+  "E18": "EmpoHiredCandidateName"
+}
++ MetaData.Schema.D2 {
+  "UId": "93aa5301-a7e2-8f0f-130f-86a2b8e2441c",
+  "A2": "EmpoDecisionComment",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "592f5393-8c7a-7f52-93a9-e39c9a5fed16",
+  "A2": "EmpoDecisionDate",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "847cc8b4-88e8-5d01-6719-667b3b690957",
+  "A2": "EmpoDecisionBy",
+  "A3": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A4": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+  "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "EmpoDecisionById",
+  "E18": "EmpoDecisionByName"
+}
+~ MetaData.Schema.D2 [
+  "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+  "e80190a5-03b2-4095-90f7-a193a960adee",
+  "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+  "9928edec-4272-425a-93bb-48743fee4b04",
+  "3015559e-cbc6-406a-88af-07f7930be832",
+  "3fabd836-6a53-4d8d-9069-6df88d9dae1e",
+  "fdfe9e03-df1d-4c51-860b-1d9d5d266296",
+  "345392d2-f5e1-70dd-8178-24f4e652c75d",
+  "07c50dcc-99d2-364f-d582-39a29cc3541e",
+  "ea144035-c6f4-3ea1-38d6-45ffd06509d6",
+  "abe93e7c-2516-aae5-721a-006d38dc49f2",
+  "1f97abe9-83a7-9407-02dc-71d60746b117",
+  "c64ff04e-ef82-f4cd-9b3c-cad4e764e422",
+  "2fbd64a3-ee49-92ff-1a7e-02449eb99939",
+  "97091e2e-3262-cdf3-fa65-f3d0b58f8982",
+  "ca9b77d1-dff3-4c4e-4d90-1686204fb809",
+  "aea7ef34-692a-6c41-8b6a-9dbda9b5f0eb",
+  "20f49b6b-c3b2-4e44-cdc5-18ecbde904ad",
+  "881935f0-b8f1-6a4e-a071-5b667a0f81c1",
+  "749e8fd4-c602-e09c-d732-c568855e4ea2",
+  "b626f7dd-de6a-111f-5a88-ef60622522a8",
+  "a611b227-5897-5116-5304-50d90063c961",
+  "0aa46425-06f9-39e5-dd2c-56b7bc6c1e66",
+  "4f61b3b4-bcd5-54ba-4c33-6ea203667d79",
+  "62b2d9f0-1a4d-b64e-f0d4-2dddfc4cca8d",
+  "4f50216c-9c43-9e0a-9379-a24797d65b1a",
+  "93aa5301-a7e2-8f0f-130f-86a2b8e2441c",
+  "592f5393-8c7a-7f52-93a9-e39c9a5fed16",
+  "847cc8b4-88e8-5d01-6719-667b3b690957"
+]
+= MetaData.Schema.D20.A2 "EmpoRequisitionEvents"
++ MetaData.Schema.D20.FA1 false
++ MetaData.Schema.D20.FA2 false
++ MetaData.Schema.D20.FA3 false
+= MetaData.Schema.D20.FA4 false
+= MetaData.Schema.D20.FA5 false
+= MetaData.Schema.D20.FA6 false
+= MetaData.Schema.D20.FA7 false
++ MetaData.Schema.D20.FA8 false
++ MetaData.Schema.D20.FA9 false
++ MetaData.Schema.D20.FA10 false
+= MetaData.Schema.D20.FA11 false
+= MetaData.Schema.D20.FA12 false
++ MetaData.Schema.D20.FA16 false
++ MetaData.Schema.D20.FA13 false
++ MetaData.Schema.D20.FA14 false
+= MetaData.Schema.D20.FA15 false
++ MetaData.Schema.D20.FA17 false
+= MetaData.Schema.D36.A3 "0c9e095e-f31c-4849-9b5c-851e1b192cc3"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

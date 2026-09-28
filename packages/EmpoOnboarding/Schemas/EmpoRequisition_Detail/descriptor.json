@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "24d49998-ba3b-462a-a3f5-012be96a0697",
+    "Name": "EmpoRequisition_Detail",
+    "ModifiedOnUtc": "\/Date(1790235058000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requisitions detail",
+    "DependsOn": []
+  }
+}

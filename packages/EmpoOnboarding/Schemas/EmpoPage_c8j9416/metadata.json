@@ -1,0 +1,53 @@
+= MetaData.Schema.UId "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.A2 "EmpoPage_c8j9416"
+= MetaData.Schema.A5 "1f95619a-0339-420a-b70a-55339370dbfb"
++ MetaData.Schema.B2 {
+  "UId": "8ed9c4ff-e3a3-4046-b3e0-f67561352df2",
+  "A2": "addRecord_ir8j07s_caption",
+  "A3": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+  "A4": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+  "A5": "1f95619a-0339-420a-b70a-55339370dbfb"
+}
++ MetaData.Schema.B2 {
+  "UId": "b88f8176-0134-47ef-a247-1b72f6c89b83",
+  "A2": "addRecord_3fg34wa_caption",
+  "A3": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+  "A4": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+  "A5": "1f95619a-0339-420a-b70a-55339370dbfb"
+}
++ MetaData.Schema.B2 {
+  "UId": "fcd5a933-f90b-4ac5-855d-12c6f29b8264",
+  "A2": "addRecord_2wlzgds_caption",
+  "A3": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+  "A4": "28d83cbd-ad56-4621-b520-70babcfd3a99",
+  "A5": "1f95619a-0339-420a-b70a-55339370dbfb"
+}
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.B2.["ec6cab03-1f08-4d53-9ca9-7a76f4b90b87"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.B2.["7ef16282-5424-f01b-7256-9b04a007dc3b"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A4 "28d83cbd-ad56-4621-b520-70babcfd3a99"
+~ MetaData.Schema.B2 [
+  "8ed9c4ff-e3a3-4046-b3e0-f67561352df2",
+  "b88f8176-0134-47ef-a247-1b72f6c89b83",
+  "fcd5a933-f90b-4ac5-855d-12c6f29b8264",
+  "3e977072-67fa-588e-d554-1d5c45e71ae9",
+  "231defdf-a768-e23a-fb30-1af82d65f9f9",
+  "ec6cab03-1f08-4d53-9ca9-7a76f4b90b87",
+  "7ef16282-5424-f01b-7256-9b04a007dc3b",
+  "0011a5bb-3302-742c-a621-c833f2ec8174",
+  "67995f5e-d70a-e2a3-5494-a22737ff9c44",
+  "be578da5-5d7d-ab2f-1e20-3e60b2942dd8"
+]
+= MetaData.Schema.B6 "f36bc89e-ade8-41fd-8964-6eae47051ba3"
+= MetaData.Schema.B8 "10.0.0.801"
+= MetaData.Schema.HD1 "ecdcc8ff-272c-4957-9381-7d74ce17e140"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD2
+- MetaData.Schema.HD9
+- MetaData.Schema.HD10
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

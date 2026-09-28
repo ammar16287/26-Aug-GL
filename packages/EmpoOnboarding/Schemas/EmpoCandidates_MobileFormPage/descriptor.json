@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6177af04-9416-4727-a472-4d01c1724864",
+    "Name": "EmpoCandidates_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1790247060000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Candidates mobile form page",
+    "DependsOn": []
+  }
+}

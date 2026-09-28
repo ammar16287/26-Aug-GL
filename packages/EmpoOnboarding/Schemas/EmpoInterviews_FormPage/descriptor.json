@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ecb3de64-dc23-4646-8817-b031787fa588",
+    "Name": "EmpoInterviews_FormPage",
+    "ModifiedOnUtc": "\/Date(1790247740000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Interviews form page",
+    "DependsOn": []
+  }
+}

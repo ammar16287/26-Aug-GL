@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+    "Name": "EmpoOnboarding",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1790315158000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/EmpoOnboarding.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

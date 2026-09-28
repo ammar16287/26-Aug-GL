@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "28822ca2-d9f6-4531-b270-02abff007065",
+    "Name": "EmpoOnbTaskSection_ListPage",
+    "ModifiedOnUtc": "\/Date(1789997258000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Onboarding Tasks list page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0427e63-49e0-4834-84aa-e74e86d21e67",
+    "Name": "EmpoCompany_ListPage",
+    "ModifiedOnUtc": "\/Date(1790161866000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Companies list page",
+    "DependsOn": []
+  }
+}

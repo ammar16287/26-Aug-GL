@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "86a3eeba-6c34-4124-aff8-d03e56d0aa27",
+    "Name": "EmpoBackgroundChecksRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790320565000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Background checks (Page settings)",
+    "DependsOn": []
+  }
+}

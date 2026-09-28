@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ee0cbdb-6a3e-4857-9129-0f192592e34e",
+    "Name": "EmpoInterviewsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790247323000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Interviews (Page settings)",
+    "DependsOn": []
+  }
+}

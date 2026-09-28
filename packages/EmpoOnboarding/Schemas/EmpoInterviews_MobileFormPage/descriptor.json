@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e5b8f8c2-406c-4c1c-b652-921be1262b8a",
+    "Name": "EmpoInterviews_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1790247323000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Interviews mobile form page",
+    "DependsOn": []
+  }
+}

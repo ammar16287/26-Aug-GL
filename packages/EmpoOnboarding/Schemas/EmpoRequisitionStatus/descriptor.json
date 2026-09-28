@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "de67f3fb-2064-4db2-beab-21da19e62b5b",
+    "Name": "EmpoRequisitionStatus",
+    "ModifiedOnUtc": "\/Date(1790235465000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requisition statuses",
+    "DependsOn": []
+  }
+}

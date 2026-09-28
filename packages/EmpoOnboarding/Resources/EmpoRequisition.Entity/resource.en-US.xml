@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requisitions" />
+			<Item Name="Columns.EmpoActualStartDate.Caption" Value="Actual start date" />
+			<Item Name="Columns.EmpoBudgeted.Caption" Value="Budgeted" />
+			<Item Name="Columns.EmpoCompany.Caption" Value="Company" />
+			<Item Name="Columns.EmpoDecisionBy.Caption" Value="Decision by" />
+			<Item Name="Columns.EmpoDecisionComment.Caption" Value="Decision comment" />
+			<Item Name="Columns.EmpoDecisionDate.Caption" Value="Decision date" />
+			<Item Name="Columns.EmpoDepartment.Caption" Value="Department" />
+			<Item Name="Columns.EmpoEmploymentType.Caption" Value="Employment type" />
+			<Item Name="Columns.EmpoHiredCandidate.Caption" Value="Hired candidate" />
+			<Item Name="Columns.EmpoHiringManager.Caption" Value="Hiring manager" />
+			<Item Name="Columns.EmpoJobDescription.Caption" Value="Job description" />
+			<Item Name="Columns.EmpoJobTitle.Caption" Value="Job title" />
+			<Item Name="Columns.EmpoName.Caption" Value="Name" />
+			<Item Name="Columns.EmpoOnboarding.Caption" Value="Onboarding record" />
+			<Item Name="Columns.EmpoPositions.Caption" Value="Number of positions" />
+			<Item Name="Columns.EmpoReason.Caption" Value="Reason" />
+			<Item Name="Columns.EmpoReplacingEmployee.Caption" Value="Replacing employee" />
+			<Item Name="Columns.EmpoRequestedBy.Caption" Value="Requested by" />
+			<Item Name="Columns.EmpoRequirements.Caption" Value="Requirements" />
+			<Item Name="Columns.EmpoSalaryRange.Caption" Value="Salary range" />
+			<Item Name="Columns.EmpoStatus.Caption" Value="Status" />
+			<Item Name="Columns.EmpoTargetStartDate.Caption" Value="Target start date" />
+			<Item Name="Columns.EmpoTeam.Caption" Value="Team" />
+		</Items>
+	</Group>
+</Resources>

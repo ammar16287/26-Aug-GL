@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Interviews" />
+			<Item Name="Columns.EmpoActivity.Caption" Value="Calendar activity" />
+			<Item Name="Columns.EmpoApplication.Caption" Value="Application" />
+			<Item Name="Columns.EmpoCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.EmpoEndDate.Caption" Value="End" />
+			<Item Name="Columns.EmpoFeedback.Caption" Value="Feedback" />
+			<Item Name="Columns.EmpoInterviewType.Caption" Value="Interview type" />
+			<Item Name="Columns.EmpoInterviewer.Caption" Value="Interviewer" />
+			<Item Name="Columns.EmpoLocation.Caption" Value="Location / meeting link" />
+			<Item Name="Columns.EmpoName.Caption" Value="Subject" />
+			<Item Name="Columns.EmpoRating.Caption" Value="Rating (1-5)" />
+			<Item Name="Columns.EmpoResult.Caption" Value="Result" />
+			<Item Name="Columns.EmpoRound.Caption" Value="Round" />
+			<Item Name="Columns.EmpoStartDate.Caption" Value="Start" />
+			<Item Name="Columns.EmpoStatus.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

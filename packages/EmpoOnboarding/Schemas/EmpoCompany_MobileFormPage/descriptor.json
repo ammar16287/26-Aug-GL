@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3e1b5366-64f3-4794-9811-08139909c07e",
+    "Name": "EmpoCompany_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1790161866000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Companies mobile form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "054ca006-df7d-43f5-83bd-e40ec735a1bd",
+      "A2": "EmpoRequisitionMobileRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "0c9e095e-f31c-4849-9b5c-851e1b192cc3",
+      "AD2": "EntitySchemaManager",
+      "AD3": "MobileRelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "0053c7d6-1c72-47bc-82bc-63d465677c82",
+            "PageSchemaUId": "1fa86dad-4860-4291-8159-60383f1c7098",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

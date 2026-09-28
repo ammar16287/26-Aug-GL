@@ -1,0 +1,33 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "b3e99a2a-95e0-4e6b-a4aa-c1daefa520e4",
+      "A2": "EmpoApplicationsMobileRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "0.0.0.0",
+      "AD1": "2370b673-176c-4af0-869f-b303ed0e6f91",
+      "AD2": "EntitySchemaManager",
+      "AD3": "MobileRelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "387d696e-4ce7-4213-b7f4-325be43598d9",
+      "PageSchemaUId": "1652ca69-89cc-4797-adf3-25ecef65c8f9",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": null,
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

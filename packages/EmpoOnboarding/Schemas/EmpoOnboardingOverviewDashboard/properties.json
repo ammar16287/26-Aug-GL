@@ -1,0 +1,8 @@
+﻿{
+  "Properties": {
+    "CreatedInVersion": "10.0.0.801",
+    "Group": "DashboardPage",
+    "OptionalProperties": "{\"DashboardsClientUnitSchemaUId\":\"c5407e29-a223-4fbd-99ef-93013323406c\",\"DashboardsElementName\":\"Dashboards\",\"DashboardsEntitySchemaName\":\"EmpoOnboarding\"}",
+    "SchemaType": "AngularSchema"
+  }
+}

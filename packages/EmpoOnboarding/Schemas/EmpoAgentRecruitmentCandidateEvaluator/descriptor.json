@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0f4eadd4-d2e8-a772-a170-1066b45582dd",
+    "Name": "EmpoAgentRecruitmentCandidateEvaluator",
+    "ModifiedOnUtc": "\/Date(1790252031000)\/",
+    "ManagerName": "CopilotIntentSchemaManager",
+    "Caption": "Recruitment Candidate Evaluator",
+    "DependsOn": []
+  }
+}

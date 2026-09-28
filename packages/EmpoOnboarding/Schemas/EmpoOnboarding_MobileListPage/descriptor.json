@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2a4e94b3-c91d-4a94-8328-b61286c7518d",
+    "Name": "EmpoOnboarding_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1789974526000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Employee Onboarding Hub mobile list page",
+    "DependsOn": []
+  }
+}

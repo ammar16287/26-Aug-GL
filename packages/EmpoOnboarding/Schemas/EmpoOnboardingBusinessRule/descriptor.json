@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "af330508-1b54-4247-b381-04961c6a8c09",
+    "Name": "EmpoOnboardingBusinessRule",
+    "ModifiedOnUtc": "\/Date(1790163334000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Employee Onboarding Hub (Business rules)",
+    "DependsOn": []
+  }
+}

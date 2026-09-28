@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Job advertisements" />
+			<Item Name="Columns.EmpoAdLink.Caption" Value="Ad link" />
+			<Item Name="Columns.EmpoAdStatus.Caption" Value="Status" />
+			<Item Name="Columns.EmpoApplicants.Caption" Value="Applicants" />
+			<Item Name="Columns.EmpoChannel.Caption" Value="Channel" />
+			<Item Name="Columns.EmpoClosingDate.Caption" Value="Closing date" />
+			<Item Name="Columns.EmpoName.Caption" Value="Ad title" />
+			<Item Name="Columns.EmpoNotes.Caption" Value="Notes" />
+			<Item Name="Columns.EmpoPostingDate.Caption" Value="Posting date" />
+			<Item Name="Columns.EmpoRequisition.Caption" Value="Requisition" />
+		</Items>
+	</Group>
+</Resources>

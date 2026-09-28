@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "52ef7f55-e80e-44d8-a036-844dec85be11",
+    "Name": "EmpoEmployeeInventory",
+    "ModifiedOnUtc": "\/Date(1790160851000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Employee inventory",
+    "DependsOn": []
+  }
+}

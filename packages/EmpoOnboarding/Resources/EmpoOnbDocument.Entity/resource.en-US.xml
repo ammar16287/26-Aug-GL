@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Onboarding document" />
+			<Item Name="Columns.EmpoDocumentType.Caption" Value="Document type" />
+			<Item Name="Columns.EmpoName.Caption" Value="Document name" />
+			<Item Name="Columns.EmpoNotes.Caption" Value="Notes" />
+			<Item Name="Columns.EmpoOnboarding.Caption" Value="Onboarding" />
+			<Item Name="Columns.EmpoStatus.Caption" Value="Status" />
+			<Item Name="Columns.EmpoUploadDate.Caption" Value="Upload date" />
+			<Item Name="Columns.EmpoVerifiedBy.Caption" Value="Verified by" />
+		</Items>
+	</Group>
+</Resources>

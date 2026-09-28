@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Candidates" />
+			<Item Name="Columns.EmpoContact.Caption" Value="Contact" />
+			<Item Name="Columns.EmpoCurrentEmployer.Caption" Value="Current employer" />
+			<Item Name="Columns.EmpoCurrentPosition.Caption" Value="Current position" />
+			<Item Name="Columns.EmpoEmail.Caption" Value="Email" />
+			<Item Name="Columns.EmpoLinkedIn.Caption" Value="LinkedIn profile" />
+			<Item Name="Columns.EmpoLocation.Caption" Value="Location" />
+			<Item Name="Columns.EmpoName.Caption" Value="Full name" />
+			<Item Name="Columns.EmpoNotes.Caption" Value="Notes" />
+			<Item Name="Columns.EmpoPhone.Caption" Value="Phone" />
+			<Item Name="Columns.EmpoResumeText.Caption" Value="Resume / CV text" />
+			<Item Name="Columns.EmpoSkills.Caption" Value="Key skills" />
+			<Item Name="Columns.EmpoSource.Caption" Value="Source" />
+			<Item Name="Columns.EmpoYearsExperience.Caption" Value="Years of experience" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

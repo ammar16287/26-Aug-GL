@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6b2c3728-729c-4d62-9bc9-f50816b4887b",
+    "Name": "EmpoCandidatesMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790247060000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Candidates (Mobile page settings)",
+    "DependsOn": []
+  }
+}

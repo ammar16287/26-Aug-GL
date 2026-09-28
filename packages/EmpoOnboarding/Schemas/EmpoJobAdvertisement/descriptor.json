@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eb50e683-b812-407b-affc-f6251bb9381b",
+    "Name": "EmpoJobAdvertisement",
+    "ModifiedOnUtc": "\/Date(1790236641000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Job advertisements",
+    "DependsOn": []
+  }
+}

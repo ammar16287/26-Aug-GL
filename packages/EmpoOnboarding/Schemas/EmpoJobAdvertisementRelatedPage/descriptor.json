@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8fccbf07-8661-4261-a843-c0b0009202bc",
+    "Name": "EmpoJobAdvertisementRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790236646000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Job advertisements (Page settings)",
+    "DependsOn": []
+  }
+}

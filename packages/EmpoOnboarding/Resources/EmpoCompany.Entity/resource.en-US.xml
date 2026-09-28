@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Companies" />
+			<Item Name="Columns.EmpoActive.Caption" Value="Active" />
+			<Item Name="Columns.EmpoAddress.Caption" Value="Address" />
+			<Item Name="Columns.EmpoCode.Caption" Value="Company code" />
+			<Item Name="Columns.EmpoEmail.Caption" Value="Email" />
+			<Item Name="Columns.EmpoLogo.Caption" Value="Logo" />
+			<Item Name="Columns.EmpoName.Caption" Value="Name" />
+			<Item Name="Columns.EmpoPhone.Caption" Value="Phone" />
+			<Item Name="Columns.EmpoWebsite.Caption" Value="Website" />
+		</Items>
+	</Group>
+</Resources>

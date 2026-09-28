@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "40a5b98c-3ed6-4638-96b3-99ea6cd3b81c",
+    "Name": "EmpoCandidate",
+    "ModifiedOnUtc": "\/Date(1790246786000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Candidates",
+    "DependsOn": []
+  }
+}

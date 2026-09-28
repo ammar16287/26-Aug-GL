@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Applications form page" />
+			<Item Name="LocalizableStrings.Detail_Interviews_Add_caption.Value" Value="Schedule interview" />
+			<Item Name="LocalizableStrings.Detail_Interviews_Refresh_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Inquiry" />
+			<Item Name="LocalizableStrings.Tab_AIEval_caption.Value" Value="AI evaluation" />
+			<Item Name="LocalizableStrings.Tab_BgCheck_caption.Value" Value="Background check" />
+			<Item Name="LocalizableStrings.Tab_Interviews_caption.Value" Value="Interviews" />
+			<Item Name="LocalizableStrings.Tab_Offer_caption.Value" Value="Offer" />
+			<Item Name="LocalizableStrings.Tab_Prescreen_caption.Value" Value="Prescreening" />
+		</Items>
+	</Group>
+</Resources>

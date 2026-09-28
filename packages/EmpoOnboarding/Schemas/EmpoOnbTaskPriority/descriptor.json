@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "98d21588-264e-4b92-88fd-b0e69accd33e",
+    "Name": "EmpoOnbTaskPriority",
+    "ModifiedOnUtc": "\/Date(1790149557000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding Task Priority",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b074f788-58a1-4489-ba47-f0ddfcbc0cc1",
+    "Name": "EmpoApplicationsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790247203000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Applications (Page settings)",
+    "DependsOn": []
+  }
+}

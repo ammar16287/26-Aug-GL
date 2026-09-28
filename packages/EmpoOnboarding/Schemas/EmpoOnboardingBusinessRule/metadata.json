@@ -1,0 +1,190 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "af330508-1b54-4247-b381-04961c6a8c09",
+      "A2": "EmpoOnboardingBusinessRule",
+      "A5": "1f95619a-0339-420a-b70a-55339370dbfb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "AD1": "2e8479d6-6226-47b8-9416-8d9d9c57bb9d",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "636f5794-79d9-4d56-9845-d498db0ab3d6",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "bcbeb089-af2b-46f6-a4c7-3566145c703a",
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionFilterLookup",
+                    "UId": "c39b1065-dcdb-4b58-9b60-a05b3c2ff939",
+                    "BSFL1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "2a321430-d120-48ef-a125-bfcb63550ec9",
+                      "BRE1": "Lookup",
+                      "BRE3": "EmpoTeams",
+                      "BVP1": "EmpoTeam",
+                      "BVF1": "EmpoCompany"
+                    },
+                    "BSFR1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "e2dadb45-5df8-4eea-81d7-b3548cd0a1f5",
+                      "BRE1": "Lookup",
+                      "BRE3": "EmpoCompany",
+                      "BVP1": "EmpoCompany",
+                      "BVF1": "null"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "889d6de9-e7fa-4c9a-b447-2a0683ff8f98",
+                "BRT2": 2
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "e137ebc6-0ef4-47cc-8b05-473171213ed0",
+                "BRT1": "EmpoCompany"
+              }
+            ],
+            "BR3": "BusinessRule_a6f59f4"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "12507024-c900-444c-9be3-cc2147dc9a4f",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "bcfb60cf-5604-44ef-a1ca-86ea4231366f",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "716c82bc-585d-4ecf-b946-34c1e460bd13",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "99e75791-25a9-455b-b254-7698d8adeb57",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "EmpoCompany"
+                  },
+                  "BCO2": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "4f3766bc-c62a-47ad-9956-e0c68390ba38",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "EmpoTeam.EmpoCompany"
+                  },
+                  "BCO3": 3
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "2b3829ad-c788-4e7c-865c-012d41d86b36",
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "bddbd9c6-71b2-41fa-ada7-660d80703f38",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "86289f32-374e-47bf-b7df-46f12673f583",
+                          "BRE1": "Lookup",
+                          "BRE2": "AttributeValue",
+                          "BRX1": "EmpoTeam",
+                          "BRX2": "null"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleEmptyValueExpression",
+                          "UId": "55753042-fc0b-4909-a909-1fc63e8752a5",
+                          "BRE1": "Lookup",
+                          "BVE1": "00000000-0000-0000-0000-000000000000"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "142b0f72-f227-4aba-9d16-e1d2a4da478a",
+                "BRT1": "EmpoCompany"
+              }
+            ],
+            "BR3": "Autogenerated_636f5794-79d9-4d56-9845-d498db0ab3d6_ClearValue",
+            "BR5": "636f5794-79d9-4d56-9845-d498db0ab3d6",
+            "BR6": "c39b1065-dcdb-4b58-9b60-a05b3c2ff939"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "ee1bcb3f-32af-402b-89db-952c168858ed",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "9b1696b0-4705-4a03-b379-784afa520f6c",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "f3efccd4-4f2b-4e2b-a79b-9ac8b506695e",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "d163baea-2d10-4695-b3a4-c969b3f53298",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "EmpoTeam"
+                  },
+                  "BCO3": 1
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "26849bf5-c2f6-4e66-950e-6dd2c170c3f0",
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "59b6ecbd-6656-44e6-a2dd-6e9f6c5b7e28",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "ce0d745c-0e2a-4a45-a6de-1d9c7f3f47de",
+                          "BRE2": "AttributeValue",
+                          "BRX1": "EmpoCompany",
+                          "BRX2": "null"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "65d54697-eede-428d-ba86-0840ef779be3",
+                          "BRE1": "Lookup",
+                          "BRE2": "AttributeValue",
+                          "BRE3": "EmpoCompany",
+                          "BRX1": "EmpoTeam.EmpoCompany"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "27afe0d9-411b-4b9b-a35c-5031257342be",
+                "BRT1": "EmpoTeam"
+              }
+            ],
+            "BR3": "Autogenerated_636f5794-79d9-4d56-9845-d498db0ab3d6_PopulateValue",
+            "BR5": "636f5794-79d9-4d56-9845-d498db0ab3d6",
+            "BR6": "c39b1065-dcdb-4b58-9b60-a05b3c2ff939"
+          }
+        ]
+      }
+    }
+  }
+}

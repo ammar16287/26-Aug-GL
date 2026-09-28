@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5089e8f0-3f38-44f9-8813-7b7686268de8",
+    "Name": "EmpoOnbBankInfo",
+    "ModifiedOnUtc": "\/Date(1790149038000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Onboarding bank / payroll info",
+    "DependsOn": []
+  }
+}

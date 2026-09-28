@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d85dd923-3326-402c-9ad4-dd7db6b27c6b",
+    "Name": "EmpoInterviewResult",
+    "ModifiedOnUtc": "\/Date(1790246600000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Interview results",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+= MetaData.Schema.UId "205e6094-5f8a-4321-b17c-68499f3fe532"
+= MetaData.Schema.A2 "EmpoOnbTaskSection_MobileFormPage"
+= MetaData.Schema.A5 "d484d861-d8e5-4a3f-84ad-1d9256189431"
+~ MetaData.Schema.B2 ["8ed6ff4f-49bd-4eff-ba37-f4c5b3928407","06cfcb92-229f-4a40-a926-f99fdbc11b8c","36d42a92-ddf3-4d50-8841-7a3ade796103","bfda0d1d-80e1-413c-92b5-8688ed1805b7"]
+= MetaData.Schema.B6 "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a"
+= MetaData.Schema.HD1 "019c694a-1a3b-4812-b2e5-219b326061ae"
+= MetaData.Schema.HD6 "null"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

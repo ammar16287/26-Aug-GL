@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d2d6a64-9f57-4f86-80aa-767ca20e744a",
+    "Name": "EmpoCandidatesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790247060000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Candidates (Page settings)",
+    "DependsOn": []
+  }
+}

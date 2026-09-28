@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Offers" />
+			<Item Name="Columns.EmpoApplication.Caption" Value="Application" />
+			<Item Name="Columns.EmpoApprovedBy.Caption" Value="Approved by" />
+			<Item Name="Columns.EmpoCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.EmpoCompany.Caption" Value="Company" />
+			<Item Name="Columns.EmpoDeclineReason.Caption" Value="Decline reason" />
+			<Item Name="Columns.EmpoJobTitle.Caption" Value="Job title" />
+			<Item Name="Columns.EmpoName.Caption" Value="Offer" />
+			<Item Name="Columns.EmpoNotes.Caption" Value="Notes" />
+			<Item Name="Columns.EmpoOfferLetter.Caption" Value="Offer letter" />
+			<Item Name="Columns.EmpoOfferedSalary.Caption" Value="Offered salary" />
+			<Item Name="Columns.EmpoRequisition.Caption" Value="Requisition" />
+			<Item Name="Columns.EmpoRespondedOn.Caption" Value="Responded on" />
+			<Item Name="Columns.EmpoResponseDue.Caption" Value="Response due" />
+			<Item Name="Columns.EmpoSentOn.Caption" Value="Sent on" />
+			<Item Name="Columns.EmpoStartDate.Caption" Value="Proposed start date" />
+			<Item Name="Columns.EmpoStatus.Caption" Value="Offer status" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

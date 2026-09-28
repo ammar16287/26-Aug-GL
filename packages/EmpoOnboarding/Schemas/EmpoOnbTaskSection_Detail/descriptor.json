@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "74a6e239-38db-4443-96cb-be8f92562869",
+    "Name": "EmpoOnbTaskSection_Detail",
+    "ModifiedOnUtc": "\/Date(1789988216000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Onboarding Tasks detail",
+    "DependsOn": []
+  }
+}

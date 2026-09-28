@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "08f350f3-065f-42ea-b3a6-fbf538991b80",
+    "Name": "EmpoOnboardingOverviewDashboard",
+    "ModifiedOnUtc": "\/Date(1790316370000)\/",
+    "Parent": {
+      "UId": "eb4d4a67-25d8-fcfa-7851-c4c91efb7b9c",
+      "Name": "BaseDashboardTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Onboarding Overview",
+    "DependsOn": []
+  }
+}

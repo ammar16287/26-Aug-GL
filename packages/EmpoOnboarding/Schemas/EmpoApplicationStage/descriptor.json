@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b73207f4-90b8-4d7e-857a-a4523ea9d609",
+    "Name": "EmpoApplicationStage",
+    "ModifiedOnUtc": "\/Date(1790246568000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Application stages",
+    "DependsOn": []
+  }
+}

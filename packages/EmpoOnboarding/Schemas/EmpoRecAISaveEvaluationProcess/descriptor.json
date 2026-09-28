@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c66da0b-685b-4d18-aedf-7ca2483c8ebd",
+    "Name": "EmpoRecAISaveEvaluationProcess",
+    "ModifiedOnUtc": "\/Date(1790252028000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Recruitment AI - Save candidate evaluation",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1fa86dad-4860-4291-8159-60383f1c7098",
+    "Name": "EmpoRequisition_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1790235058000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requisitions mobile form page",
+    "DependsOn": []
+  }
+}

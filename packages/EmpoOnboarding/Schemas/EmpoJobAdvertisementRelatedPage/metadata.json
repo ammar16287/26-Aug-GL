@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "8fccbf07-8661-4261-a843-c0b0009202bc",
+      "A2": "EmpoJobAdvertisementRelatedPage",
+      "A5": "6aa6d1d8-5de2-4c6e-b81a-9552c4d03a3a",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "AD1": "eb50e683-b812-407b-affc-f6251bb9381b",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "f2503428-c784-00b6-a9f9-946fe5fe3f3a",
+      "PageSchemaUId": "7e4e5784-b5bd-4182-95e5-48c6dce1e934",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "05ff2173-ff35-4569-a955-2521db1d565b",
+    "Name": "EmpoBackgroundChecksMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1790320565000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Background checks (Mobile page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+= MetaData.Schema.UId "1652ca69-89cc-4797-adf3-25ecef65c8f9"
+= MetaData.Schema.A2 "EmpoApplications_MobileFormPage"
+= MetaData.Schema.A5 "d484d861-d8e5-4a3f-84ad-1d9256189431"
+= MetaData.Schema.B6 "f36bc89e-ade8-41fd-8964-6eae47051ba3"
+= MetaData.Schema.HD1 "019c694a-1a3b-4812-b2e5-219b326061ae"
++ MetaData.Schema.HD2 "null"
++ MetaData.Schema.HD9 "null"
++ MetaData.Schema.HD10 "null"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

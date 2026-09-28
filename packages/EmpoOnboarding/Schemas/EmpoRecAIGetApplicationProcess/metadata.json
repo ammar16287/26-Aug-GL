@@ -1,0 +1,183 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "52f70586-d1c2-4611-8d77-816684b64555",
+      "A2": "EmpoRecAIGetApplicationProcess",
+      "A5": "9164b03f-cb06-4199-ab24-819161efacf0",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "2a52c4cc-a200-45e0-8e7c-713f64b06a5d",
+          "A2": "ApplicationReference",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "L1": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+          "L8": {
+            "GS5": "52f70586-d1c2-4611-8d77-816684b64555"
+          },
+          "L6": true,
+          "L12": 0
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "445b56eb-6f0f-45d5-b6bc-2059fd9e4c22",
+          "A2": "ApplicationDetails",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "L1": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+          "L8": {
+            "GS5": "52f70586-d1c2-4611-8d77-816684b64555"
+          },
+          "L12": 1
+        }
+      ],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+        "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "000e186b-467e-484b-adf4-48125b6f68d8",
+          "A2": "LaneSet1",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "ab00512c-4309-4e1e-8189-8cd53e1bf198",
+              "A2": "Lane1",
+              "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+              "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+              "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+              "IL2": "000e186b-467e-484b-adf4-48125b6f68d8",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "000e186b-467e-484b-adf4-48125b6f68d8",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "f1f4eaed-c113-4cff-a511-2146b70402fb",
+          "A2": "StartEvent1",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+          "IL2": "ab00512c-4309-4e1e-8189-8cd53e1bf198",
+          "BL3": "50;184",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "51fd9738-0533-4bb6-9b0f-a462ee2e9b38",
+          "A2": "TerminateEvent1",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+          "IL2": "ab00512c-4309-4e1e-8189-8cd53e1bf198",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "795008d0-7867-4f23-82a3-a1bce7215249",
+          "A2": "ScriptTask1",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+          "IL2": "ab00512c-4309-4e1e-8189-8cd53e1bf198",
+          "BL3": "308;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "// ===== Recruitment automation (shared helpers) =====\nvar uc = UserConnection;\nGuid TaskTypeId = new Guid(\"fbe0acdc-cfc0-df11-b00f-001d60e938c6\");\nGuid CategoryToDoId = new Guid(\"f51c4643-58e6-df11-971b-001d60e938c6\");\nGuid CategoryMeetingId = new Guid(\"42c74c49-58e6-df11-971b-001d60e938c6\");\nGuid ActNotStartedId = new Guid(\"384d4b84-58e6-df11-971b-001d60e938c6\");\nGuid ActCompletedId = new Guid(\"4bdbb88f-58e6-df11-971b-001d60e938c6\");\nGuid ActCanceledId = new Guid(\"201cfba8-58e6-df11-971b-001d60e938c6\");\nGuid PriorityMediumId = new Guid(\"ab96fa02-7fe6-df11-971b-001d60e938c6\");\nGuid CurrentContactId = uc.CurrentUser.ContactId;\nDateTime Now = uc.CurrentUser.GetCurrentDateTime();\n\nstring DisplayColumn(string schemaName) {\n\treturn uc.EntitySchemaManager.GetInstanceByName(schemaName).PrimaryDisplayColumn.ColumnValueName;\n}\nGuid LookupId(string schemaName, string name) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Top(1).Column(\"Id\").From(schemaName)\n\t\t.Where(DisplayColumn(schemaName)).IsEqual(Terrasoft.Core.DB.Column.Parameter(name)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<Guid>();\n}\nstring LookupName(string schemaName, Guid id) {\n\tif (id == Guid.Empty) {\n\t\treturn string.Empty;\n\t}\n\tvar select = new Terrasoft.Core.DB.Select(uc).Top(1).Column(DisplayColumn(schemaName)).From(schemaName)\n\t\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(id)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<string>() ?? string.Empty;\n}\nTerrasoft.Core.Entities.Entity Load(string schemaName, Guid id) {\n\tif (id == Guid.Empty) {\n\t\treturn null;\n\t}\n\tvar entity = uc.EntitySchemaManager.GetInstanceByName(schemaName).CreateEntity(uc);\n\treturn entity.FetchFromDB(id) ? entity : null;\n}\nbool SetValue(Terrasoft.Core.Entities.Entity entity, string column, object value) {\n\tobject current = entity.GetColumnValue(column);\n\tif (Equals(current, value)) {\n\t\treturn false;\n\t}\n\tentity.SetColumnValue(column, value);\n\treturn true;\n}\nbool IsEmptyGuid(Terrasoft.Core.Entities.Entity entity, string column) {\n\treturn entity.GetTypedColumnValue<Guid>(column) == Guid.Empty;\n}\nbool IsEmptyText(Terrasoft.Core.Entities.Entity entity, string column) {\n\treturn string.IsNullOrWhiteSpace(entity.GetTypedColumnValue<string>(column));\n}\nbool IsEmptyDate(Terrasoft.Core.Entities.Entity entity, string column) {\n\treturn entity.GetTypedColumnValue<DateTime>(column) == DateTime.MinValue;\n}\nint CountBy(string schemaName, string column, Guid value) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(schemaName)\n\t\t.Where(column).IsEqual(Terrasoft.Core.DB.Column.Parameter(value)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<int>();\n}\nvoid RecalcApplicants(Guid jobAdId) {\n\tif (jobAdId == Guid.Empty) {\n\t\treturn;\n\t}\n\tvar update = new Terrasoft.Core.DB.Update(uc, \"EmpoJobAdvertisement\")\n\t\t.Set(\"EmpoApplicants\", Terrasoft.Core.DB.Column.Parameter(CountBy(\"EmpoApplication\", \"EmpoJobAdvertisementId\", jobAdId)))\n\t\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(jobAdId)) as Terrasoft.Core.DB.Update;\n\tupdate.Execute();\n}\n// Fills Requisition / Company / Source / Name defaults. Returns true when something changed.\nbool ApplyApplicationDefaults(Terrasoft.Core.Entities.Entity app) {\n\tbool changed = false;\n\tGuid jobAdId = app.GetTypedColumnValue<Guid>(\"EmpoJobAdvertisementId\");\n\tif (IsEmptyGuid(app, \"EmpoRequisitionId\") && jobAdId != Guid.Empty) {\n\t\tvar ad = Load(\"EmpoJobAdvertisement\", jobAdId);\n\t\tif (ad != null && ad.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\") != Guid.Empty) {\n\t\t\tchanged |= SetValue(app, \"EmpoRequisitionId\", ad.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\"));\n\t\t}\n\t}\n\tGuid reqId = app.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\");\n\tif (IsEmptyGuid(app, \"EmpoCompanyId\") && reqId != Guid.Empty) {\n\t\tvar req = Load(\"EmpoRequisition\", reqId);\n\t\tif (req != null && req.GetTypedColumnValue<Guid>(\"EmpoCompanyId\") != Guid.Empty) {\n\t\t\tchanged |= SetValue(app, \"EmpoCompanyId\", req.GetTypedColumnValue<Guid>(\"EmpoCompanyId\"));\n\t\t}\n\t}\n\tvar candidate = Load(\"EmpoCandidate\", app.GetTypedColumnValue<Guid>(\"EmpoCandidateId\"));\n\tif (candidate != null && IsEmptyGuid(app, \"EmpoSourceId\") && candidate.GetTypedColumnValue<Guid>(\"EmpoSourceId\") != Guid.Empty) {\n\t\tchanged |= SetValue(app, \"EmpoSourceId\", candidate.GetTypedColumnValue<Guid>(\"EmpoSourceId\"));\n\t}\n\tif (IsEmptyText(app, \"EmpoName\") && candidate != null) {\n\t\tstring position = LookupName(\"EmpoJobAdvertisement\", jobAdId);\n\t\tif (string.IsNullOrEmpty(position)) {\n\t\t\tposition = LookupName(\"EmpoRequisition\", reqId);\n\t\t}\n\t\tstring name = candidate.GetTypedColumnValue<string>(\"EmpoName\") + (string.IsNullOrEmpty(position) ? \"\" : \" - \" + position);\n\t\tchanged |= SetValue(app, \"EmpoName\", name.Length > 250 ? name.Substring(0, 250) : name);\n\t}\n\treturn changed;\n}\n// Makes sure the candidate has a Contact record; returns its Id.\nGuid EnsureCandidateContact(Guid candidateId) {\n\tvar candidate = Load(\"EmpoCandidate\", candidateId);\n\tif (candidate == null) {\n\t\treturn Guid.Empty;\n\t}\n\tGuid contactId = candidate.GetTypedColumnValue<Guid>(\"EmpoContactId\");\n\tif (contactId != Guid.Empty) {\n\t\treturn contactId;\n\t}\n\tvar contact = uc.EntitySchemaManager.GetInstanceByName(\"Contact\").CreateEntity(uc);\n\tcontact.SetDefColumnValues();\n\tcontactId = Guid.NewGuid();\n\tcontact.SetColumnValue(\"Id\", contactId);\n\tcontact.SetColumnValue(\"Name\", candidate.GetTypedColumnValue<string>(\"EmpoName\"));\n\tcontact.SetColumnValue(\"Email\", candidate.GetTypedColumnValue<string>(\"EmpoEmail\"));\n\tcontact.SetColumnValue(\"MobilePhone\", candidate.GetTypedColumnValue<string>(\"EmpoPhone\"));\n\tcontact.SetColumnValue(\"JobTitle\", candidate.GetTypedColumnValue<string>(\"EmpoCurrentPosition\"));\n\tcontact.Save(false);\n\tcandidate.SetColumnValue(\"EmpoContactId\", contactId);\n\tcandidate.Save(false);\n\treturn contactId;\n}\nGuid CreateActivity(string title, DateTime start, DateTime due, Guid ownerId, Guid categoryId, Guid contactId, string location, string notes) {\n\tvar activity = uc.EntitySchemaManager.GetInstanceByName(\"Activity\").CreateEntity(uc);\n\tactivity.SetDefColumnValues();\n\tGuid id = Guid.NewGuid();\n\tactivity.SetColumnValue(\"Id\", id);\n\tactivity.SetColumnValue(\"Title\", title.Length > 500 ? title.Substring(0, 500) : title);\n\tactivity.SetColumnValue(\"StartDate\", start);\n\tactivity.SetColumnValue(\"DueDate\", due);\n\tactivity.SetColumnValue(\"OwnerId\", ownerId != Guid.Empty ? ownerId : CurrentContactId);\n\tactivity.SetColumnValue(\"AuthorId\", CurrentContactId);\n\tactivity.SetColumnValue(\"TypeId\", TaskTypeId);\n\tactivity.SetColumnValue(\"ActivityCategoryId\", categoryId);\n\tactivity.SetColumnValue(\"StatusId\", ActNotStartedId);\n\tactivity.SetColumnValue(\"PriorityId\", PriorityMediumId);\n\tactivity.SetColumnValue(\"ShowInScheduler\", true);\n\tif (contactId != Guid.Empty) {\n\t\tactivity.SetColumnValue(\"ContactId\", contactId);\n\t}\n\tif (!string.IsNullOrEmpty(location)) {\n\t\tactivity.SetColumnValue(\"Location\", location.Length > 250 ? location.Substring(0, 250) : location);\n\t}\n\tif (!string.IsNullOrEmpty(notes)) {\n\t\tactivity.SetColumnValue(\"Notes\", notes);\n\t}\n\tactivity.Save(false);\n\treturn id;\n}\n\nbool Run() {\n\tGuid FindApplication(string appRef) {\n\t\tGuid parsed;\n\t\tif (Guid.TryParse(appRef, out parsed)) {\n\t\t\treturn CountBy(\"EmpoApplication\", \"Id\", parsed) > 0 ? parsed : Guid.Empty;\n\t\t}\n\t\tif (string.IsNullOrWhiteSpace(appRef)) {\n\t\t\treturn Guid.Empty;\n\t\t}\n\t\tvar byName = new Terrasoft.Core.DB.Select(uc).Top(1).Column(\"Id\").From(\"EmpoApplication\")\n\t\t\t.OrderByDesc(\"CreatedOn\") as Terrasoft.Core.DB.Select;\n\t\tbyName.Where(\"EmpoName\").IsLike(Terrasoft.Core.DB.Column.Parameter(\"%\" + appRef + \"%\"));\n\t\treturn byName.ExecuteScalar<Guid>();\n\t}\n\t// ===== AI tool: return everything the evaluator needs about one application =====\n\tstring reference = (Get<string>(\"ApplicationReference\") ?? string.Empty).Trim();\n\tGuid appId = FindApplication(reference);\n\tvar app = Load(\"EmpoApplication\", appId);\n\tif (app == null) {\n\t\tSet(\"ApplicationDetails\", \"No application found for '\" + reference + \"'. Ask the user for the application name or open the application record.\");\n\t\treturn true;\n\t}\n\tvar sb = new System.Text.StringBuilder();\n\tvoid Line(string label, string value) {\n\t\tif (!string.IsNullOrWhiteSpace(value)) {\n\t\t\tsb.AppendLine(label + \": \" + value.Trim());\n\t\t}\n\t}\n\tstring Html(string value) {\n\t\tif (string.IsNullOrEmpty(value)) {\n\t\t\treturn string.Empty;\n\t\t}\n\t\tstring text = System.Text.RegularExpressions.Regex.Replace(value, \"<[^>]+>\", \" \");\n\t\treturn System.Net.WebUtility.HtmlDecode(System.Text.RegularExpressions.Regex.Replace(text, \"\\\\s+\", \" \")).Trim();\n\t}\n\tstring YesNo(Terrasoft.Core.Entities.Entity e, string column) {\n\t\treturn e.GetTypedColumnValue<bool>(column) ? \"Yes\" : \"No\";\n\t}\n\tstring DateText(Terrasoft.Core.Entities.Entity e, string column) {\n\t\tDateTime value = e.GetTypedColumnValue<DateTime>(column);\n\t\treturn value == DateTime.MinValue ? string.Empty : value.ToString(\"yyyy-MM-dd\");\n\t}\n\tsb.AppendLine(\"APPLICATION\");\n\tLine(\"Application Id\", app.PrimaryColumnValue.ToString());\n\tLine(\"Application\", app.GetTypedColumnValue<string>(\"EmpoName\"));\n\tLine(\"Stage\", LookupName(\"EmpoApplicationStage\", app.GetTypedColumnValue<Guid>(\"EmpoStageId\")));\n\tLine(\"Source\", LookupName(\"EmpoCandidateSource\", app.GetTypedColumnValue<Guid>(\"EmpoSourceId\")));\n\tLine(\"Job advertisement\", LookupName(\"EmpoJobAdvertisement\", app.GetTypedColumnValue<Guid>(\"EmpoJobAdvertisementId\")));\n\tLine(\"Inquiry / cover letter\", app.GetTypedColumnValue<string>(\"EmpoInquiryMessage\"));\n\tsb.AppendLine();\n\tvar cand = Load(\"EmpoCandidate\", app.GetTypedColumnValue<Guid>(\"EmpoCandidateId\"));\n\tif (cand != null) {\n\t\tsb.AppendLine(\"CANDIDATE\");\n\t\tLine(\"Name\", cand.GetTypedColumnValue<string>(\"EmpoName\"));\n\t\tLine(\"Location\", cand.GetTypedColumnValue<string>(\"EmpoLocation\"));\n\t\tLine(\"Current position\", cand.GetTypedColumnValue<string>(\"EmpoCurrentPosition\"));\n\t\tLine(\"Current employer\", cand.GetTypedColumnValue<string>(\"EmpoCurrentEmployer\"));\n\t\tLine(\"Years of experience\", cand.GetTypedColumnValue<int>(\"EmpoYearsExperience\").ToString());\n\t\tLine(\"Key skills\", cand.GetTypedColumnValue<string>(\"EmpoSkills\"));\n\t\tLine(\"LinkedIn\", cand.GetTypedColumnValue<string>(\"EmpoLinkedIn\"));\n\t\tLine(\"Resume / CV\", cand.GetTypedColumnValue<string>(\"EmpoResumeText\"));\n\t\tLine(\"Recruiter notes\", cand.GetTypedColumnValue<string>(\"EmpoNotes\"));\n\t\tsb.AppendLine();\n\t}\n\tsb.AppendLine(\"PRESCREENING\");\n\tLine(\"Result\", LookupName(\"EmpoPrescreenResult\", app.GetTypedColumnValue<Guid>(\"EmpoPrescreenResultId\")));\n\tLine(\"Meets minimum requirements\", YesNo(app, \"EmpoMeetsMinRequirements\"));\n\tLine(\"Authorized to work\", YesNo(app, \"EmpoWorkAuthorized\"));\n\tLine(\"Willing to relocate\", YesNo(app, \"EmpoWillingToRelocate\"));\n\tLine(\"Expected salary\", app.GetTypedColumnValue<string>(\"EmpoExpectedSalary\"));\n\tLine(\"Notice period (days)\", app.GetTypedColumnValue<int>(\"EmpoNoticePeriodDays\").ToString());\n\tLine(\"Available from\", DateText(app, \"EmpoAvailableFrom\"));\n\tLine(\"Prescreening notes\", app.GetTypedColumnValue<string>(\"EmpoPrescreenNotes\"));\n\tsb.AppendLine();\n\tvar req = Load(\"EmpoRequisition\", app.GetTypedColumnValue<Guid>(\"EmpoRequisitionId\"));\n\tif (req != null) {\n\t\tsb.AppendLine(\"POSITION (REQUISITION)\");\n\t\tLine(\"Requisition\", req.GetTypedColumnValue<string>(\"EmpoName\"));\n\t\tLine(\"Job title\", req.GetTypedColumnValue<string>(\"EmpoJobTitle\"));\n\t\tLine(\"Company\", LookupName(\"EmpoCompany\", req.GetTypedColumnValue<Guid>(\"EmpoCompanyId\")));\n\t\tLine(\"Department\", LookupName(\"EmpoOnbDepartment\", req.GetTypedColumnValue<Guid>(\"EmpoDepartmentId\")));\n\t\tLine(\"Employment type\", LookupName(\"EmpoEmploymentType\", req.GetTypedColumnValue<Guid>(\"EmpoEmploymentTypeId\")));\n\t\tLine(\"Salary range\", req.GetTypedColumnValue<string>(\"EmpoSalaryRange\"));\n\t\tLine(\"Requirements\", Html(req.GetTypedColumnValue<string>(\"EmpoRequirements\")));\n\t\tLine(\"Job description\", Html(req.GetTypedColumnValue<string>(\"EmpoJobDescription\")));\n\t\tsb.AppendLine();\n\t} else {\n\t\tsb.AppendLine(\"POSITION: no requisition linked - evaluate against the job advertisement title only.\");\n\t\tsb.AppendLine();\n\t}\n\tvar esq = new Terrasoft.Core.Entities.EntitySchemaQuery(uc.EntitySchemaManager, \"EmpoInterview\");\n\tesq.AddColumn(\"EmpoName\");\n\tesq.AddColumn(\"EmpoStartDate\");\n\tesq.AddColumn(\"EmpoRating\");\n\tesq.AddColumn(\"EmpoFeedback\");\n\tvar resultCol = esq.AddColumn(\"EmpoResult.Name\");\n\tesq.Filters.Add(esq.CreateFilterWithParameters(Terrasoft.Core.Entities.FilterComparisonType.Equal, \"EmpoApplication\", app.PrimaryColumnValue));\n\tvar interviews = esq.GetEntityCollection(uc);\n\tif (interviews.Count > 0) {\n\t\tsb.AppendLine(\"INTERVIEWS\");\n\t\tforeach (var interview in interviews) {\n\t\t\tstring resultName = interview.GetTypedColumnValue<string>(resultCol.Name);\n\t\t\tsb.AppendLine(\"- \" + interview.GetTypedColumnValue<string>(\"EmpoName\")\n\t\t\t\t+ \" | result: \" + (string.IsNullOrEmpty(resultName) ? \"pending\" : resultName)\n\t\t\t\t+ \" | rating: \" + interview.GetTypedColumnValue<int>(\"EmpoRating\")\n\t\t\t\t+ \" | feedback: \" + interview.GetTypedColumnValue<string>(\"EmpoFeedback\"));\n\t\t}\n\t}\n\tSet(\"ApplicationDetails\", sb.ToString());\n\treturn true;\n}\nreturn Run();\n",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "65fe8d3d-ce0f-411d-934d-972a424d6661",
+          "A2": "SequenceFlow1",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+          "CI1": "f1f4eaed-c113-4cff-a511-2146b70402fb",
+          "CI2": "795008d0-7867-4f23-82a3-a1bce7215249",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "308;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "a9493c34-4fdc-4b19-8b76-468ec0cb6cbc",
+          "A2": "SequenceFlow2",
+          "A3": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A4": "52f70586-d1c2-4611-8d77-816684b64555",
+          "A5": "843c35ab-8f85-4020-8adc-21c9f78b70ac",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "52f70586-d1c2-4611-8d77-816684b64555",
+          "CI1": "795008d0-7867-4f23-82a3-a1bce7215249",
+          "CI2": "51fd9738-0533-4bb6-9b0f-a462ee2e9b38",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "377;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

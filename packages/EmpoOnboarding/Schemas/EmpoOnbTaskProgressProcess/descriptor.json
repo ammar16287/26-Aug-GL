@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+    "Name": "EmpoOnbTaskProgressProcess",
+    "ModifiedOnUtc": "\/Date(1790146207000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Employee Onboarding - Task progress tracking",
+    "DependsOn": []
+  }
+}

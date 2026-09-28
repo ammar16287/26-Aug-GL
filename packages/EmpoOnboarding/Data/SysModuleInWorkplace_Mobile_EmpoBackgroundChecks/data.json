@@ -1,0 +1,26 @@
+{
+    "PackageData": [
+      {
+        "Row": [
+          {
+            "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+            "Value": "7ac63caf-cd8d-410d-8bb5-a45444981b8f"
+          },
+          {
+            "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+            "Value": 26
+          },
+          {
+            "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+            "Value": "d9f8b75b-2b8c-4c5a-bfc6-6363ad4705ee",
+            "DisplayValue": "My applications"
+          },
+          {
+            "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+            "Value": "3c70fe6f-3ed2-4d45-9408-d7ef72237f37",
+            "DisplayValue": "Background checks"
+          }
+        ]
+      }
+    ]
+  }

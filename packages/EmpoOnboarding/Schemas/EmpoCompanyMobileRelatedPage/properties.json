@@ -1,0 +1,8 @@
+﻿{
+  "Properties": {
+    "AddonName": "MobileRelatedPage",
+    "CreatedInVersion": "0.0.0.0",
+    "TargetSchemaManagerName": "EntitySchemaManager",
+    "TargetSchemaUId": "2dc57a02-c4a3-4fe5-905e-befbf6db8c6b"
+  }
+}

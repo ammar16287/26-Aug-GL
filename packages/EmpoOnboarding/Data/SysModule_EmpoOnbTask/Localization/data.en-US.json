@@ -1,0 +1,28 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "7816b698-30a9-4b56-99b7-c730a19d37a9"
+        },
+        {
+          "SchemaColumnUId": "3da3c3b2-02fb-4cca-80c3-7946d4e8f565",
+          "ColumnName": "Caption",
+          "Value": "Onboarding Tasks"
+        },
+        {
+          "SchemaColumnUId": "48b260f5-5aad-608c-73a9-2b835ef697f4",
+          "ColumnName": "Description",
+          "Value": "Department-assigned onboarding tasks"
+        },
+        {
+          "SchemaColumnUId": "7b904e78-84bf-408c-a7a1-1287e66837d3",
+          "ColumnName": "ModuleHeader",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

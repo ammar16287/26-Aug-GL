@@ -1,0 +1,178 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+      "A2": "EmpoOnbTaskProgressProcess",
+      "A5": "1f95619a-0339-420a-b70a-55339370dbfb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+      "B8": "10.0.0.801",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+        "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "9eabbf2c-1753-47c0-8fba-88d155e25842",
+          "A2": "LaneSet1",
+          "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "42555d76-a6e8-4bf5-94fb-d44742d550bb",
+              "A2": "Lane1",
+              "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+              "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+              "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+              "IL2": "9eabbf2c-1753-47c0-8fba-88d155e25842",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "9eabbf2c-1753-47c0-8fba-88d155e25842",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "176f9ab7-1cfa-4b66-b440-eeaedd88ad54",
+          "A2": "TerminateEvent1",
+          "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "IL2": "42555d76-a6e8-4bf5-94fb-d44742d550bb",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartSignalEvent",
+          "UId": "a78c1df1-fd5a-4ed7-a7e7-854b512fb024",
+          "A2": "StartSignal1",
+          "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "42555d76-a6e8-4bf5-94fb-d44742d550bb",
+          "IL3": true,
+          "BL3": "50;184",
+          "BL7": "1129e72f-0e8c-445a-b2ea-463517e86395",
+          "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "df5db0f5-bb50-4a45-9dde-18833e284654",
+              "A2": "RecordId",
+              "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+              "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+              "IL2": "a78c1df1-fd5a-4ed7-a7e7-854b512fb024",
+              "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+              "L8": {
+                "GS1": 1,
+                "GS2": ""
+              }
+            }
+          ],
+          "FC2": "510fc310-ef9a-46b7-9a26-06dcd2263ba4",
+          "ED1": false,
+          "DZ1": "null",
+          "DZ2": false,
+          "DZ3": true,
+          "DZ5": 2,
+          "DZ12": "[]",
+          "DZ13": "{\"className\":\"Terrasoft.FilterGroup\",\"serializedFilterEditData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"EmpoOnbTask\\\",\\\"key\\\":\\\"\\\"}\",\"dataSourceFilters\":\"{\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"EmpoOnbTask\\\"}\"}"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "69a8e22e-4142-475d-8ede-56e7caaa520f",
+          "A2": "ScriptTask1",
+          "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "IL2": "42555d76-a6e8-4bf5-94fb-d44742d550bb",
+          "BL3": "308;172",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "// ===== Employee Onboarding automation (shared helpers) =====\nvar uc = UserConnection;\nGuid NotificationTypeId = new Guid(\"685e7149-c015-4a4d-b4a6-2e5625a6314c\");\nGuid RemindingSourceOwnerId = new Guid(\"a76d08e1-2e2d-e011-ac0a-00155d043205\");\nGuid OnboardingModuleEntityId = new Guid(\"32ba265e-bfd6-45b4-857e-372e1bb248a6\");\nstring Phase1 = \"1. Hire & create record\";\nstring Phase2 = \"2. Job offer & acceptance\";\nstring Phase3 = \"3. Collect employee information\";\nstring Phase4 = \"4. Pre-joining preparation\";\nstring Phase5 = \"5. First day welcome\";\nstring Phase6 = \"6. Onboarding completed\";\n\nGuid LookupId(string schemaName, string name) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Top(1).Column(\"Id\").From(schemaName)\n\t\t.Where(\"Name\").IsEqual(Terrasoft.Core.DB.Column.Parameter(name)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<Guid>();\n}\nint CountBy(string schemaName, string column, Guid value) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(schemaName)\n\t\t.Where(column).IsEqual(Terrasoft.Core.DB.Column.Parameter(value)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<int>();\n}\nint CountByText(string schemaName, string column, string value) {\n\tvar select = new Terrasoft.Core.DB.Select(uc).Column(Terrasoft.Core.DB.Func.Count(\"Id\")).From(schemaName)\n\t\t.Where(column).IsEqual(Terrasoft.Core.DB.Column.Parameter(value)) as Terrasoft.Core.DB.Select;\n\treturn select.ExecuteScalar<int>();\n}\nTerrasoft.Core.Entities.Entity Load(string schemaName, Guid id) {\n\tvar entity = uc.EntitySchemaManager.GetInstanceByName(schemaName).CreateEntity(uc);\n\treturn entity.FetchFromDB(id) ? entity : null;\n}\nbool SetValue(Terrasoft.Core.Entities.Entity entity, string column, object value) {\n\tobject current = entity.GetColumnValue(column);\n\tif (Equals(current, value)) {\n\t\treturn false;\n\t}\n\tentity.SetColumnValue(column, value);\n\treturn true;\n}\nbool SetLookup(Terrasoft.Core.Entities.Entity entity, string column, Guid value) {\n\tif (value == Guid.Empty) {\n\t\treturn false;\n\t}\n\treturn SetValue(entity, column + \"Id\", value);\n}\nvoid Notify(Guid contactId, Guid onboardingId, string caption, string message) {\n\tif (contactId == Guid.Empty) {\n\t\treturn;\n\t}\n\tvar reminding = uc.EntitySchemaManager.GetInstanceByName(\"Reminding\").CreateEntity(uc);\n\treminding.SetDefColumnValues();\n\treminding.SetColumnValue(\"Id\", Guid.NewGuid());\n\treminding.SetColumnValue(\"AuthorId\", uc.CurrentUser.ContactId);\n\treminding.SetColumnValue(\"ContactId\", contactId);\n\treminding.SetColumnValue(\"SourceId\", RemindingSourceOwnerId);\n\treminding.SetColumnValue(\"RemindTime\", DateTime.UtcNow);\n\treminding.SetColumnValue(\"Description\", message);\n\treminding.SetColumnValue(\"SubjectCaption\", caption);\n\treminding.SetColumnValue(\"PopupTitle\", \"Employee onboarding\");\n\treminding.SetColumnValue(\"SubjectId\", onboardingId);\n\treminding.SetColumnValue(\"SysEntitySchemaId\", OnboardingModuleEntityId);\n\treminding.SetColumnValue(\"NotificationTypeId\", NotificationTypeId);\n\treminding.Save(false);\n}\nvoid NotifyTeam(Terrasoft.Core.Entities.Entity onboarding, string message) {\n\tvar sent = new System.Collections.Generic.HashSet<Guid>();\n\tforeach (string col in new[] { \"EmpoHiringManagerId\", \"EmpoHrPartnerId\" }) {\n\t\tGuid contactId = onboarding.GetTypedColumnValue<Guid>(col);\n\t\tif (contactId != Guid.Empty && sent.Add(contactId)) {\n\t\t\tNotify(contactId, onboarding.PrimaryColumnValue, onboarding.GetTypedColumnValue<string>(\"EmpoName\"), message);\n\t\t}\n\t}\n}\nvoid Recalc(Guid onboardingId) {\n\tif (onboardingId == Guid.Empty) {\n\t\treturn;\n\t}\n\tGuid completed = LookupId(\"EmpoOnbTaskStatus\", \"Completed\");\n\tGuid skipped = LookupId(\"EmpoOnbTaskStatus\", \"Skipped\");\n\tvar esq = new Terrasoft.Core.Entities.EntitySchemaQuery(uc.EntitySchemaManager, \"EmpoOnbTask\");\n\tesq.AddColumn(\"EmpoStatus\");\n\tesq.AddColumn(\"EmpoDueDate\");\n\tesq.Filters.Add(esq.CreateFilterWithParameters(Terrasoft.Core.Entities.FilterComparisonType.Equal, \"EmpoOnboarding\", onboardingId));\n\tvar tasks = esq.GetEntityCollection(uc);\n\tint total = tasks.Count, done = 0, overdue = 0;\n\tDateTime today = DateTime.UtcNow.Date;\n\tforeach (var task in tasks) {\n\t\tGuid status = task.GetTypedColumnValue<Guid>(\"EmpoStatusId\");\n\t\tif (status == completed || status == skipped) {\n\t\t\tdone++;\n\t\t} else {\n\t\t\tDateTime due = task.GetTypedColumnValue<DateTime>(\"EmpoDueDate\");\n\t\t\tif (due != DateTime.MinValue && due.Date < today) {\n\t\t\t\toverdue++;\n\t\t\t}\n\t\t}\n\t}\n\tint percent = total > 0 ? (int)Math.Round(done * 100.0 / total) : 0;\n\tvar update = new Terrasoft.Core.DB.Update(uc, \"EmpoOnboarding\")\n\t\t.Set(\"EmpoTaskTotalCount\", Terrasoft.Core.DB.Column.Parameter(total))\n\t\t.Set(\"EmpoTaskCompletedCount\", Terrasoft.Core.DB.Column.Parameter(done))\n\t\t.Set(\"EmpoTaskOverdueCount\", Terrasoft.Core.DB.Column.Parameter(overdue))\n\t\t.Set(\"EmpoProgressPercent\", Terrasoft.Core.DB.Column.Parameter(percent))\n\t\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(onboardingId)) as Terrasoft.Core.DB.Update;\n\tupdate.Execute();\n}\n\n// ===== Keep progress counters in sync when an onboarding task changes =====\nGuid recordId = Get<Guid>(\"StartSignal1.RecordId\");\nvar sel = new Terrasoft.Core.DB.Select(uc).Top(1).Column(\"EmpoOnboardingId\").From(\"EmpoOnbTask\")\n\t.Where(\"Id\").IsEqual(Terrasoft.Core.DB.Column.Parameter(recordId)) as Terrasoft.Core.DB.Select;\nRecalc(sel.ExecuteScalar<Guid>());\nreturn true;\n",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "6e6f4207-f5d2-4f55-ada0-388202847745",
+          "A2": "SequenceFlow1",
+          "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A5": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "CI1": "a78c1df1-fd5a-4ed7-a7e7-854b512fb024",
+          "CI2": "69a8e22e-4142-475d-8ede-56e7caaa520f",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "308;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "ab36b70f-0d9a-4bac-9488-c061c5a89ce8",
+          "A2": "SequenceFlow2",
+          "A3": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A4": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "A5": "f36bc89e-ade8-41fd-8964-6eae47051ba3",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "aadb0e34-f5b7-473f-b51e-2541b277b420",
+          "CI1": "69a8e22e-4142-475d-8ede-56e7caaa520f",
+          "CI2": "176f9ab7-1cfa-4b66-b440-eeaedd88ad54",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "377;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "en-US",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}
