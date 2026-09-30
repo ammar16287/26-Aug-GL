@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "34e49e9d-0502-41b5-8d0a-0a5d1014f855",
     "Name": "EmpoOnboarding_FormPage",
-    "ModifiedOnUtc": "\/Date(1790163338000)\/",
+    "ModifiedOnUtc": "\/Date(1790748426000)\/",
     "Parent": {
       "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
       "Name": "PageWithTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Employee Onboarding form page",
-    "DependsOn": []
+    "Caption": "Employee Onboarding form page"
   }
 }

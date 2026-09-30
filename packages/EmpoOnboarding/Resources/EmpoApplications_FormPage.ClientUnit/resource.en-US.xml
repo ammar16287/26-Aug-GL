@@ -5,7 +5,11 @@
 			<Item Name="Caption" Value="Applications form page" />
 			<Item Name="LocalizableStrings.Detail_Interviews_Add_caption.Value" Value="Schedule interview" />
 			<Item Name="LocalizableStrings.Detail_Interviews_Refresh_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ExpansionPanel_da51fjf_title.Value" Value="CV / Resume" />
 			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Inquiry" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_tfakofv_caption.Value" Value="Upload" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_rxrk5zo_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_rmfh5o0_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.Tab_AIEval_caption.Value" Value="AI evaluation" />
 			<Item Name="LocalizableStrings.Tab_BgCheck_caption.Value" Value="Background check" />
 			<Item Name="LocalizableStrings.Tab_Interviews_caption.Value" Value="Interviews" />
