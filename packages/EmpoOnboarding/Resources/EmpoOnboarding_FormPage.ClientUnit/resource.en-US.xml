@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Employee Onboarding form page" />
+			<Item Name="LocalizableStrings.Comp_Progress_label.Value" Value="Progress, %" />
 			<Item Name="LocalizableStrings.EmployeeInfoTab_caption.Value" Value="Additional Info" />
 			<Item Name="LocalizableStrings.ExpansionPanel_fs6y1ia_title.Value" Value="Uploaded files" />
 			<Item Name="LocalizableStrings.ExpansionPanel_ro9ngwo_title.Value" Value="Employee inventory" />
