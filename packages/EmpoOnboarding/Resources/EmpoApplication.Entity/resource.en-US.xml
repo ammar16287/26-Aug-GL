@@ -3,12 +3,12 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Applications" />
-			<Item Name="Columns.EmpoAIConcerns.Caption" Value="AI concerns" />
-			<Item Name="Columns.EmpoAIEvaluatedOn.Caption" Value="AI evaluated on" />
-			<Item Name="Columns.EmpoAIRecommendation.Caption" Value="AI recommendation" />
-			<Item Name="Columns.EmpoAIScore.Caption" Value="AI match score" />
-			<Item Name="Columns.EmpoAIStrengths.Caption" Value="AI strengths" />
-			<Item Name="Columns.EmpoAISummary.Caption" Value="AI summary" />
+			<Item Name="Columns.EmpoAIConcerns.Caption" Value="Concerns" />
+			<Item Name="Columns.EmpoAIEvaluatedOn.Caption" Value="Evaluated on" />
+			<Item Name="Columns.EmpoAIRecommendation.Caption" Value="Recommendation" />
+			<Item Name="Columns.EmpoAIScore.Caption" Value="Match score" />
+			<Item Name="Columns.EmpoAIStrengths.Caption" Value="Strengths" />
+			<Item Name="Columns.EmpoAISummary.Caption" Value="Summary" />
 			<Item Name="Columns.EmpoAcknowledged.Caption" Value="Acknowledgement sent" />
 			<Item Name="Columns.EmpoAvailableFrom.Caption" Value="Available from" />
 			<Item Name="Columns.EmpoBgCheckAssignedTo.Caption" Value="Background check assigned to" />

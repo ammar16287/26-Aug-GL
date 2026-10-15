@@ -1,0 +1,70 @@
+﻿{
+  "Descriptor": {
+    "UId": "091030e2-e906-4f37-9f45-3d064e7c6808",
+    "Name": "EmpoCompany",
+    "ModifiedOnUtc": "\/Date(1790749464000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "2dc57a02-c4a3-4fe5-905e-befbf6db8c6b",
+      "Name": "EmpoCompany"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "042c81f4-d62d-4f5b-9f2b-66e5958f193e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoWebsite",
+        "DataTypeValueUId": "26cba64c-daf1-4f36-b2ea-73c0d695d90c"
+      },
+      {
+        "ColumnUId": "0827b5ea-4d74-44ac-aaaf-a3343dcd2da3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoAddress",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "4f98c33c-ad2d-4717-aeb4-16a86a8aa447",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoEmail",
+        "DataTypeValueUId": "66cba64c-daf1-4f36-b8ea-73c0d695d90c"
+      },
+      {
+        "ColumnUId": "6dbfc768-6c24-4308-894e-86a51a6b6f27",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoCode",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "74171e54-f2b7-4978-9050-ddcf6344c8b4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoActive",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "92646feb-e6ba-49a4-b16b-d57959529d94",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoPhone",
+        "DataTypeValueUId": "26cba63c-daf1-4f36-b2ea-73c0d675d90c"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "b1792a34-ad7f-418d-bbe7-f0f6d027eca9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EmpoName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

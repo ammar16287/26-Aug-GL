@@ -1,0 +1,973 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "08b48809-6e07-49d1-8000-2f4bf3accc2d"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Welcome the new employee on the first day."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 100
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "554ec9d1-f30c-4aaa-bc40-811d869243ac",
+          "DisplayValue": "Day 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Welcome the employee"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1f5a95e5-d1aa-432f-af72-747851001d8d"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -10
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Personal details, contact information and emergency contact."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 20
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Collect personal & contact information"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "26610375-7fea-4deb-a339-c7f19608768c"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -5
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "49e651cc-7043-4552-995b-73c26607526a",
+          "DisplayValue": "IT"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Create the employee account in HR and IT systems."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 50
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Create employee account"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "293ddec0-57ee-4b0e-ad81-4d6b69a16e1a"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "6c73aca0-15cc-4f95-8125-0a0b0c786adf",
+          "DisplayValue": "Line Manager / Team"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Introduce the team and buddy."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 120
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "554ec9d1-f30c-4aaa-bc40-811d869243ac",
+          "DisplayValue": "Day 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Introduce team members"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "362075e3-ca04-4542-bcc8-f710f6809a43"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "6c73aca0-15cc-4f95-8125-0a0b0c786adf",
+          "DisplayValue": "Line Manager / Team"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Manager 30-day feedback meeting."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 160
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "155b5b16-d69c-4b14-acab-f6d7c85abd45",
+          "DisplayValue": "Low"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "8c3b1721-1115-46ac-848e-04363b955b8d",
+          "DisplayValue": "Month 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "30-day check-in"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "384ee67a-950a-4fe1-871e-59aa5785e98a"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -2
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Prepare the first-week onboarding schedule."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 90
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Prepare onboarding schedule"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "43a3bf1c-d5cb-429c-98fb-5dc288751c0e"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 90
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Probation period review."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 170
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "690b591e-56eb-425d-8a20-15d54a79624c",
+          "DisplayValue": "Probation review"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Probation review"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6f1f2f93-a203-4b8d-8492-9ea987da87ab"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -2
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "5e154d71-f2f8-49fe-aed2-83a909ab868b",
+          "DisplayValue": "Facilities"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Assign desk / workspace and access card."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 80
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Assign workspace"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "86464037-ed8e-4063-a2ba-33402ae21e5f"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 5
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "e4004df5-9ead-41e6-adc0-36a9e2c5f2e8",
+          "DisplayValue": "Security & Compliance"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Complete mandatory security & compliance training."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 150
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "ac2abe0b-1edd-445f-bec4-88784ba6555b",
+          "DisplayValue": "Week 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Security & compliance training"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a252ac21-e08c-467f-8d2f-f6c671deb9c2"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "88b5f712-0f4a-4015-950d-25dfb9bd39c9",
+          "DisplayValue": "Legal"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Collect signed NDA and employment contract."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 140
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "ac2abe0b-1edd-445f-bec4-88784ba6555b",
+          "DisplayValue": "Week 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Sign NDA / employment contract"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a44139c6-73ce-4858-a54a-0cd4a05e3862"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -10
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "5fe0e65d-7878-445d-bbf6-02cce4d1f3fe",
+          "DisplayValue": "Finance & Payroll"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Bank name, account number, IBAN and tax information."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Collect bank / payroll information"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b5072c42-10dd-4625-9b76-85eb1737c24a"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "6c73aca0-15cc-4f95-8125-0a0b0c786adf",
+          "DisplayValue": "Line Manager / Team"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Introduce HR partner and hiring manager."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 110
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "554ec9d1-f30c-4aaa-bc40-811d869243ac",
+          "DisplayValue": "Day 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Introduce HR & manager"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b6b24750-1625-470b-b208-838f03ab005a"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -10
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "CNIC/ID, certificates, experience letters, tax forms."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 40
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Collect tax & legal documents"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d69a890d-4a5a-4675-9819-219b20c1f223"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Walk through handbook, policies and culture."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 130
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "1ae671ca-861b-4b2e-9713-cd7297a7747e",
+          "DisplayValue": "Medium"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "554ec9d1-f30c-4aaa-bc40-811d869243ac",
+          "DisplayValue": "Day 1"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Explain company policies & culture"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dbbea05c-adaa-457a-beea-df953110a0d4"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -3
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "49e651cc-7043-4552-995b-73c26607526a",
+          "DisplayValue": "IT"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Create corporate email and grant system access."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 70
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Create email & system access"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f3e5f231-1e90-46f2-94cc-5c8a0c94d90b"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -3
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "49e651cc-7043-4552-995b-73c26607526a",
+          "DisplayValue": "IT"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Prepare laptop, peripherals and required equipment."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 60
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Prepare laptop / equipment"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fc11af1e-62bc-4d6e-9bbd-393427e2aaec"
+        },
+        {
+          "SchemaColumnUId": "1ce56aaf-092a-43a3-9c7e-fd949d4dcc70",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "2aa57c73-06ba-40a5-a33e-f59b09699112",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3e2a8cab-401a-46cc-bd3f-f80e63538932",
+          "Value": -14
+        },
+        {
+          "SchemaColumnUId": "4fcc994d-be07-4eca-a4e9-7ed337286892",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "9658d791-a382-4035-b5d0-a73358ab235b",
+          "Value": "add0a1ed-f4d4-4e52-b38f-d86c038ba5cd",
+          "DisplayValue": "Human Resources"
+        },
+        {
+          "SchemaColumnUId": "9869953c-9e98-48a7-871f-227d895d13a2",
+          "Value": "Prepare and send the offer letter; track acceptance and confirm joining date & position."
+        },
+        {
+          "SchemaColumnUId": "a05ed567-bba1-42f5-812c-5f7c11377e0d",
+          "Value": 10
+        },
+        {
+          "SchemaColumnUId": "ae1ff6cc-3d30-41b9-8c56-4680cb21308c",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "c2a66456-9e98-40ac-960d-e4766aa55ee1",
+          "Value": "d588f6dd-4a31-4a45-9b51-648504b08e9e",
+          "DisplayValue": "High"
+        },
+        {
+          "SchemaColumnUId": "db8466a4-d03c-4548-800e-bffd439968e7",
+          "Value": "d86ce7f7-c009-4fb6-9ce2-337346cd7ebf",
+          "DisplayValue": "Pre-boarding"
+        },
+        {
+          "SchemaColumnUId": "e40f7ee6-c23d-4646-871e-179b1c983668",
+          "Value": "Send offer letter"
+        }
+      ]
+    }
+  ]
+}

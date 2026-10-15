@@ -2164,6 +2164,23 @@ define("EmpoApplications_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function
 								}
 							}
 						}
+					},
+					"PDS_EmpoAIRecommendation_List": {
+						"isCollection": true,
+						"modelConfig": {
+							"sortingConfig": {
+								"default": [
+									{
+										"columnName": "Name",
+										"direction": "asc"
+									}
+								]
+							}
+						}
+					},
+					"PDS_EmpoRecruiter_List": {
+						"isCollection": true,
+						"modelConfig": {}
 					}
 				}
 			},

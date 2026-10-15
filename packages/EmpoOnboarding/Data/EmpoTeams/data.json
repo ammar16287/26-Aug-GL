@@ -1,0 +1,82 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "234f40d1-7fb6-4a91-a28d-1d6ebeeae683"
+        },
+        {
+          "SchemaColumnUId": "25554116-7c44-4f55-8414-3b5e82ddc75c",
+          "Value": "0a36c0dc-f585-4b5c-9184-8cfd873d52ac",
+          "DisplayValue": "Naviquis"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2e906b50-8d09-407b-bb4d-dead97a3ff36"
+        },
+        {
+          "SchemaColumnUId": "25554116-7c44-4f55-8414-3b5e82ddc75c",
+          "Value": "0a36c0dc-f585-4b5c-9184-8cfd873d52ac",
+          "DisplayValue": "Naviquis"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "494b3105-ea45-47d8-ae4c-9944aded7c7e"
+        },
+        {
+          "SchemaColumnUId": "25554116-7c44-4f55-8414-3b5e82ddc75c",
+          "Value": "0a36c0dc-f585-4b5c-9184-8cfd873d52ac",
+          "DisplayValue": "Naviquis"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5d5c4700-771c-42d6-a984-25297b55cc38"
+        },
+        {
+          "SchemaColumnUId": "25554116-7c44-4f55-8414-3b5e82ddc75c",
+          "Value": "0a36c0dc-f585-4b5c-9184-8cfd873d52ac",
+          "DisplayValue": "Naviquis"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "999fd53f-110a-4eea-b404-9f4d5d8f66f7"
+        },
+        {
+          "SchemaColumnUId": "25554116-7c44-4f55-8414-3b5e82ddc75c",
+          "Value": "0a36c0dc-f585-4b5c-9184-8cfd873d52ac",
+          "DisplayValue": "Naviquis"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fe92d6d9-e925-46af-8521-bf8d2724f3e0"
+        },
+        {
+          "SchemaColumnUId": "25554116-7c44-4f55-8414-3b5e82ddc75c",
+          "Value": "0a36c0dc-f585-4b5c-9184-8cfd873d52ac",
+          "DisplayValue": "Naviquis"
+        }
+      ]
+    }
+  ]
+}
